@@ -10,7 +10,7 @@ _NOTE: This document is under development. Please check regularly for updates!_
 - [Design Principles](#design-principles)
 - [Tokenomics](#tokenomics)
   - [Content Creator to Content Consumer (pull model)](#content-creator-to-content-consumer-pull-model)
-  - [Content Promoter to Content Consumer (pull model)](#content-creator-to-content-consumer-pull-model)
+  - [Content Promoter to Content Consumer (push model)](#content-creator-to-content-consumer-push-model)
 - [Conclusion](#conclusion)
 
 ## Introduction
