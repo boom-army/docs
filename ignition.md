@@ -10,6 +10,12 @@ It was [Melvin E. Conway](https://en.wikipedia.org/wiki/Conway%27s_law) who stat
 
 **Sosol** alpha is a twitter clone, that aims to prove the concept of micro-transactional engagement on Social Media. It is integrated with a Solana token and token program, to enable micro-transactions with sub-second finality delivering a Web2 experience on Web3 infrastructure. This specific social format was chosen, because the base functionality of Twitter is succinct and easily understood as a concept for Content Consumers and Creators to learn how micro payments can augment and improve the social experience.
 
+### Tokenomics
+
+The core program transaction method between Consumers and Creators is described in the attached image:
+
+![Content Creator to Content Consumer flow diagram](https://github.com/sosol-gmi/docs/raw/main/assets/img/creator-to-consumer.png)
+
 ## How we built it
 
 **Sosol** was built over 4 months by a single developer. It all started with a conversation in Telegram with a close friend in July 2021:
