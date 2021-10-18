@@ -6,7 +6,10 @@ Welcome to the 1303, and thanks for your interest in [**sosol**](http://sosol.ap
 
 TLDR; - Head over to [my.sosol.app](http://my.sosol.app) and you'll be able to login using the wallet specified when you registered.
 
-**NB - you'll need $SOL on test-net to pay the tiny network transaction fees.** You can get [as much as you need for free here](https://solfaucet.com).
+**NB**
+
+- You'll need "test-net $SOL" to pay the tiny network transaction fees. You can get [as much as you need for free here](https://solfaucet.com).
+- If you don't have $SSL tokens you will be able to post still, but you won't be able to interact or get reactions on your posts.
 
 ## What to expect
 
