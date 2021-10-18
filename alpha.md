@@ -6,7 +6,7 @@ Welcome to the 1303, and thanks for your interest in [sosol](http://sosol.app).
 
 TLDR; - Head over to [my.sosol.app](http://my.sosol.app) and you'll be able to login using the wallet specified when you registered.
 
-**NB - you'll need $SOL on test-net to pay the small transaction fee. You can get [as much as you need for free here](https://solfaucet.com).**
+**NB - you'll need $SOL on test-net to pay the tiny network transaction fees. You can get [as much as you need for free here](https://solfaucet.com).**
 ## What to expect
 
 Alpha is in the [earliest stage](https://en.wikipedia.org/wiki/Software_release_life_cycle) of the software release cycle. Many of the packages we're using in the code base are only partly formed. This is how early you are! Expect features to be generally a bit lack-lustre, and in the odd instance to be broken. If you do find something that isn't working, or have a suggestion, then please jump on twitter and let [@harkl_](https://my.sosol.app/harkl) know. Alternately, if you're a little bit familiar with github then please do log an issue right in the [client repo](https://github.com/sosol-gmi/sosol-client/issues).
