@@ -2,7 +2,7 @@
 
 Welcome to the 1303, and thanks for your interest in [sosol](http://sosol.app).
 
-** Alpha is live!!!**
+## Alpha is live!!!
 
 TLDR; - Head over to [my.sosol.app](http://my.sosol.app) and you'll be able to login using the wallet specified when you registered.
 
