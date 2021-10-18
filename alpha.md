@@ -61,6 +61,12 @@ Our servers are built to scale, with a load balancer and up to 200 t2.micro cont
 
 As we've been very vocal about, the future of **sosol** is on the decentralized IPFS network. We currently have the token mechanisms setup to incentivize this in future, but it will be a little while before we get to that stage. Given the primary database client [Orbit-DB](https://orbitdb.org) is also still in Alpha, you can get a picture of how early and new everything is in the crypto space.
 
+## Feedback
+
+- Any issues can bed logged for dev here - [github.com/sosol-gmi/sosol-client](https://github.com/sosol-gmi/sosol-client/issues)
+- We'll be seeking feedback in a more general format once Alpha is well on it's way
+- You can contact [@harkl](https://my.sosol.app/harkl) directly on [my.sosol.app](http://my.sosol.app).
+
 ## If you need anything
 
 As you're well aware by now everything is bootstrapped, so if something seems off get in touch with [@harkl\_](https://my.sosol.app/harkl) via **sosol**. The ultimate goal of SSL for the 1303 is to reward you all handsomely, and listen to your feedback to build the best Web3 Social product in the space. LFG!
