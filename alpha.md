@@ -11,6 +11,12 @@ TLDR; - Head over to [my.sosol.app](http://my.sosol.app) and you'll be able to l
 - You'll need "test-net $SOL" to pay the tiny network transaction fees. You can get [as much as you need for free here](https://solfaucet.com).
 - If you don't have $SSL tokens you will be able to post still, but you won't be able to interact or get reactions on your posts.
 
+## To authenticate and login
+
+1. Click the "Select Wallet" button in the top right toolbar
+2. Select "Phantom"
+3. Click "Login with <hash>" in the top left toolbar
+
 ## What to expect
 
 Alpha is in the [earliest stage](https://en.wikipedia.org/wiki/Software_release_life_cycle) of the software release cycle. Many of the packages we're using in the code base are only partly formed. This is how early you are! Expect features to be generally a bit lack-lustre, and in the odd instance to be broken. If you do find something that isn't working, or have a suggestion, then please jump on **sosol** and let [@harkl\_](https://my.sosol.app/harkl) know. Alternately, if you're a little bit familiar with github then please do log an issue right in the [client repo](https://github.com/sosol-gmi/sosol-client/issues).
