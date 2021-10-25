@@ -41,8 +41,10 @@ This document outlines the road map for sosol ($SSL) - A Monetized, Decentralize
 - [x] Submit an entry to Solana Ignition
 - [x] Establish a [discord channel](https://discord.gg/HfN66JSY) for direct support
 - Improve the UX experience for Content Creators so content is a first class citizen
+- Sollet/Math Wallet/Solflare integration
+- Mobile and Tablet functionality fully operational
 - List token on main-net (dependant on incorporation)
-- Provide a liquidity pairing on a Solana DEX
+- Provide a liquidity pairing on a Solana Exchange/DEX
 
 # Q3 2021
 
