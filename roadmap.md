@@ -32,7 +32,20 @@ There will be a total of 42 million $SSL tokens with 9 decimal places of divisib
 - 23.7% (9.954M) locked
 - 25.5% (10.71M) OTC sale
 
-# Q4 2021
+## Team and hiring
+
+We'll be hiring a team so that we can hit the ground running in Q1 2022.
+
+### Hiring (position filled if checked)
+
+- [x] JS Developer
+- [x] JS Developer
+- [x] Community Manager
+- [x] Community Manager
+- [x] UX Designer
+- DevOps for AWS/Docker
+
+## Q4 2021
 
 - Start building out the decentralized backend
 - [x] Onboard an initial core team for development, design and community management
@@ -49,7 +62,7 @@ There will be a total of 42 million $SSL tokens with 9 decimal places of divisib
 - List token on main-net
 - Provide a liquidity pairing on a Solana Exchange/DEX
 
-# Q3 2021
+## Q3 2021
 
 - [x] Build out the React JS client
 - [x] Write v1.0 of the sosol program contract
