@@ -19,7 +19,11 @@ This document outlines the road map for sosol ($SSL) - A Monetized, Decentralize
 - Rewards for the 1303 Alphas
 - Promoter Content that allows advertisers to load Posts with tokens for engagement
 
-## Token allocation (42M total tokens with 9dp)
+## Tokens
+
+There will be a total of 42 million $SSL tokens with 9 decimal places of divisibility.
+
+### Token allocation split
 
 - 14.7% (6.174M) core contributors
 - 11.7% (4.914M) grants/promotions
