@@ -1,4 +1,4 @@
-# sosol
+# Sosol Whitepaper
 
 A token program with a unique token ($SSL) built on Solana to monetize social engagement.
 
