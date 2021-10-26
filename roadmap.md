@@ -31,7 +31,6 @@ This document outlines the road map for sosol ($SSL) - A Monetized, Decentralize
 # Q4 2021
 
 - Start building out the decentralized backend
-- Setup and incorporate the sosol company structure
 - [x] Onboard an initial core team for development, design and community management
 - [x] Engage and onboard a CEO
 - Engage and onboard a CFO
@@ -43,7 +42,7 @@ This document outlines the road map for sosol ($SSL) - A Monetized, Decentralize
 - Improve the UX experience for Content Creators so content is a first class citizen
 - Sollet/Math Wallet/Solflare integration
 - Mobile and Tablet functionality fully operational
-- List token on main-net (dependant on incorporation)
+- List token on main-net
 - Provide a liquidity pairing on a Solana Exchange/DEX
 
 # Q3 2021
