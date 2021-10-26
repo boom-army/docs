@@ -21,7 +21,7 @@ This document outlines the road map for sosol ($SSL) - A Monetized, Decentralize
 
 ## Tokens
 
-There will be a total of 42 million $SSL tokens with 9 decimal places of divisibility.
+There will be a total of 42 million $SSL tokens with 9 decimal places of divisibility. The smallest unit of $SSL is called a `meep` with 1 billion meeps per $SSL.
 
 ### Token allocation split
 
