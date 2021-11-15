@@ -23,6 +23,14 @@ This document outlines the road map for sosol ($SSL) - A Monetized, Decentralize
 
 There will be a total of 420 million $SSL tokens with 9 decimal places of divisibility. The smallest unit of $SSL is called a `meep` with 1 billion meeps per $SSL.
 
+### Market cap spread
+
+We've targeted 420M tokens to give a good price range on our journey to a 1B dollar market cap. Of course this will be dependant in the short term on amount in circulation. When we hit mainnet, that figure will be roughly 3M-4M tokens.
+
+| Market cap (w/420M)|7,000,000|15,000,000|30,000,000|50,000,000|100,000,000|300,000,000|1,000,000,000|
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Token price (USD)  |0.01667  | 0.036    | 0.07143  | 0.12      | 0.24     | 0.71      | 2.38        |
+
 ### Token allocation split
 
 - 14.7% (61.74M) core contributors
