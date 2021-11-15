@@ -21,16 +21,16 @@ This document outlines the road map for sosol ($SSL) - A Monetized, Decentralize
 
 ## Tokens
 
-There will be a total of 42 million $SSL tokens with 9 decimal places of divisibility. The smallest unit of $SSL is called a `meep` with 1 billion meeps per $SSL.
+There will be a total of 420 million $SSL tokens with 9 decimal places of divisibility. The smallest unit of $SSL is called a `meep` with 1 billion meeps per $SSL.
 
 ### Token allocation split
 
-- 14.7% (6.174M) core contributors
-- 11.7% (4.914M) grants/promotions
-- 11.7% (4.914M) early eco-system
-- 12.7% (5.334M) community sale
-- 23.7% (9.954M) locked
-- 25.5% (10.71M) OTC sale
+- 14.7% (61.74M) core contributors
+- 11.7% (49.14M) grants/promotions
+- 11.7% (49.14M) early eco-system
+- 12.7% (53.34M) community sale
+- 23.7% (99.54M) locked
+- 25.5% (107.1M) OTC sale
 
 ## Team and hiring
 
@@ -43,7 +43,8 @@ We'll be hiring a team so that we can hit the ground running in Q1 2022.
 - [x] Community Manager
 - [x] Community Manager
 - [x] UX Designer
-- DevOps for AWS/Docker
+- DevOps for AWS/Docker/IPFS
+- Rust Developer
 
 ## Q4 2021
 
