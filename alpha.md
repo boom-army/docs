@@ -47,7 +47,7 @@ NB - if you don't have $SSL tokens you will be able to post still, but you won't
 
 **NB - you'll need $SOL on test-net to pay the small transaction fee. You can get [as much as you need for free here](https://solfaucet.com).**
 
-There's a total of just 42,000,000 $SSL tokens, so that means you own 0.002% of the total supply! If you had the equivalent total supply in $BTC that would equate to about $23.5M USD at it's current price of $62,283.29 USD. That absolutely blows my mind and is obviously not a promise of future value, but it's wild to think about all the same.
+There's a total of just 420,000,000 $SSL tokens, so that means you own 0.002% of the total supply! If you had the equivalent total supply in $BTC that would equate to about $23.5M USD at it's current price of $62,283.29 USD. That absolutely blows my mind and is obviously not a promise of future value, but it's wild to think about all the same.
 
 ### Test Net
 
