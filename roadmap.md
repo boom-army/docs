@@ -54,22 +54,29 @@ We'll be hiring a team so that we can hit the ground running in Q1 2022.
 - DevOps for AWS/Docker/IPFS
 - Rust Developer
 
+## Q1 2022
+
+- Rebrand to Boom
+- Rehouse infrastructure on boom.army
+- List token on main-net
+- Provide a liquidity pairing on a Solana Exchange/DEX
+- [x] Allow minting of NFTs on platform
+- [x] Showcase creators wallet NFTs in their profile
+- Start building out the decentralized backend
+- Math Wallet integration
+- Mobile and Tablet functionality fully operational
+
 ## Q4 2021
 
-- Start building out the decentralized backend
 - [x] Onboard an initial core team for development, design and community management
 - [x] Engage and onboard a CEO
-- Engage and onboard a CFO
-- Stabalize the platform in Alpha so all base functionality works seamlessly
+- [x] Stabalize the platform in Alpha so all base functionality works seamlessly
 - [x] Setup AWS to launch alpha
 - [x] Launch sosol token on Solana test-net
 - [x] Submit an entry to Solana Ignition
 - [x] Establish a [discord channel](https://discord.gg/HfN66JSY) for direct support
-- Improve the UX experience for Content Creators so content is a first class citizen
-- Sollet/Math Wallet/Solflare integration
-- Mobile and Tablet functionality fully operational
-- List token on main-net
-- Provide a liquidity pairing on a Solana Exchange/DEX
+- [x] Improve the UX experience for Content Creators so content is a first class citizen
+- [x] Solflare integration
 
 ## Q3 2021
 
