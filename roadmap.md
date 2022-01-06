@@ -65,6 +65,9 @@ We'll be hiring a team so that we can hit the ground running in Q1 2022.
 - Start building out the decentralized backend
 - Math Wallet integration
 - Mobile and Tablet functionality fully operational
+- Enable on platform sales of NFTs
+- Allow users to creat collections
+- Setup channels
 
 ## Q4 2021
 
@@ -77,6 +80,14 @@ We'll be hiring a team so that we can hit the ground running in Q1 2022.
 - [x] Establish a [discord channel](https://discord.gg/HfN66JSY) for direct support
 - [x] Improve the UX experience for Content Creators so content is a first class citizen
 - [x] Solflare integration
+- [x] Implement native NFT posts on platform
+- [x] Implement giphy GIFS on platform
+- [x] Create a global feed
+- [x] Build threaded comments
+- [x] Allow unfunded recipients to receive tokens
+- [x] Display post content without the need to verify account
+- [x] Streamline login flow to one click login
+- [x] Setup test suite to stabilise code base
 
 ## Q3 2021
 
