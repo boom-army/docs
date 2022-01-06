@@ -56,12 +56,12 @@ We'll be hiring a team so that we can hit the ground running in Q1 2022.
 
 ## Q1 2022
 
+- [x] Allow minting of NFTs on platform
+- [x] Showcase creators wallet NFTs in their profile
 - Rebrand to Boom
 - Rehouse infrastructure on boom.army
 - List token on main-net
 - Provide a liquidity pairing on a Solana Exchange/DEX
-- [x] Allow minting of NFTs on platform
-- [x] Showcase creators wallet NFTs in their profile
 - Start building out the decentralized backend
 - Math Wallet integration
 - Mobile and Tablet functionality fully operational
