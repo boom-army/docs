@@ -1,48 +1,52 @@
-# Sosol Road Map
+# Boom.Army Road Map
 
-This document outlines the road map for sosol ($SSL) - A Monetized, Decentralized, Social Media platform built on the [Solana](http://www.solana.com) network.
+This document outlines the road map for Boom ($BMA) - A platform designed and built for Creators to connect with their Communities through the power of NFTs on the [Solana](http://www.solana.com) network.
 
 ## Our Vision
 
-- To decentralize and democratize Social Media on blockchain and make it anti-fragile
+- To be the place for Solana NFT owners to gather and connect around all things NFT
 - To add commerce to Social Content and allow Creators to get paid for the value they produce
 - To remove the middle-man so 100% of Content value goes to the Creators and Hosts engaged in delivering it
 - To enable anyone, regardless of race, creed, or colour to speak freely
 - To build a platform that augments the human communication experience rather than hacks it for commercial gain
+- To decentralize and democratize Social Media on blockchain and make it anti-fragile
 
 ## Upcoming features
 
+- The ability to mint, showcase and sell NFTs without having to leave the platform
+- NFT enabled access on platform that act as roles, unlocks and experiences based on what you hold in your wallet
 - A fully decentralized blockchain based Open API to enable developers to build Social Media variant apps
 - Open access to API data for any individual to programitically engage with the world's social opinions
 - Monetized Rich Content as audio and video
-- NFTs as a source of verified account status
-- Rewards for the 1303 Alphas
-- Promoter Content that allows advertisers to load Posts with tokens for engagement
+- Unique Promoter Content that incentivizes airdrop campaigns for promotions and engagement
 
 ## Tokens
 
-There will be a total of 420 million $SSL tokens with 9 decimal places of divisibility. The smallest unit of $SSL is called a `meep` with 1 billion meeps per $SSL.
+There will be a total of 420 million $SSL tokens with 9 decimal places of divisibility. The smallest unit of $BMA is called a `meep` with 1 billion meeps per $BMA.
 
 ### Market cap spread
 
-We've targeted 420M tokens to give a good price range on our journey to a 1B dollar market cap. Of course this will be dependant in the short term on amount in circulation. When we hit mainnet, that figure will be roughly 3M-4M tokens.
-
-| Market cap (w/420M)|7,000,000|15,000,000|30,000,000|50,000,000|100,000,000|300,000,000|1,000,000,000|
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Token price (USD)  |0.01667  | 0.036    | 0.07143  | 0.12      | 0.24     | 0.71      | 2.38        |
+We've targeted 420M tokens to give a good price range on our journey to a fully diluted market cap up to $1 billion. Of course this will be dependant in the short term on amount in circulation. When we hit mainnet, that figure will be roughly 5M tokens of the toal supply.
 
 ### Token allocation split
 
-- 14.7% (61.74M) core contributors
-- 11.7% (49.14M) grants/promotions
-- 11.7% (49.14M) early eco-system
-- 12.7% (53.34M) community sale
-- 23.7% (99.54M) locked
-- 25.5% (107.1M) OTC sale
+- 30% (126M) Community/Creators/Gamification/Artist Rewards/NFTs
+- 15% (63M) Public sales
+- 10% (42M) Eco-system & marketing
+- 15% (63M) Team
+- 20% (84M) Boom Army Liquidity
+- 10% (42M) Available for OTC
 
-## Team and hiring
+## Team
 
-We'll be hiring a team so that we can hit the ground running in Q1 2022.
+- [Quiet Salad](https://twitter.com/dingo_dingo2020) - CEO
+- [Harkl](https://twitter.com/harkl_) - CTO
+- [Bort](https://github.com/Bort-license-plate) - Developer
+- [Whichape](https://github.com/whichape) - Developer
+- [Scifilove](https://github.com/scifilove) - Developer
+- [bensage.sol](https://twitter.com/Chimdalu_O) - Designer
+- [Illyrian](https://twitter.com/illyrian1234) - Community Manager/Research
+- [Hyperion](https://twitter.com/odinreport) - Community Manager
 
 ### Hiring (position filled if checked)
 
@@ -71,6 +75,7 @@ We'll be hiring a team so that we can hit the ground running in Q1 2022.
 
 ## Q4 2021
 
+- [x] Rewards for the 1303 Alphas
 - [x] Onboard an initial core team for development, design and community management
 - [x] Engage and onboard a CEO
 - [x] Stabalize the platform in Alpha so all base functionality works seamlessly
@@ -92,8 +97,8 @@ We'll be hiring a team so that we can hit the ground running in Q1 2022.
 ## Q3 2021
 
 - [x] Build out the React JS client
-- [x] Write v1.0 of the sosol program contract
-- [x] Setup a GraphQL API to handle sosol request data
+- [x] Write v1.0 of the program contract
+- [x] Setup a GraphQL API to handle request data
 - [x] Setup a database in Postgres to store Alpha data
 - [x] Build a base of Alpha testers (1303 finalized)
-- [x] Setup a sosol Twitter account and start building a community
+- [x] Setup a Twitter account and start building a community
