@@ -62,8 +62,8 @@ We've targeted 420M tokens to give a good price range on our journey to a fully 
 
 - [x] Allow minting of NFTs on platform
 - [x] Showcase creators wallet NFTs in their profile
-- Rebrand to Boom
-- Rehouse infrastructure on boom.army
+- [x] Rebrand to Boom
+- [x] Rehouse infrastructure on boom.army
 - List token on main-net
 - Provide a liquidity pairing on a Solana Exchange/DEX
 - Start building out the decentralized backend
