@@ -26,7 +26,7 @@ There will be a total of 420 million $SSL tokens with 9 decimal places of divisi
 
 ### Market cap spread
 
-We've targeted 420M tokens to give a good price range on our journey to a fully diluted market cap up to $1 billion. Of course this will be dependant in the short term on amount in circulation. When we hit mainnet, that figure will be roughly 5M tokens of the toal supply.
+We've targeted 420M tokens to give a good price range on our journey to a fully diluted market cap up to $1 billion. Of course this will be dependant in the short term on amount in circulation. When we hit mainnet, that figure will be roughly 5M tokens of the total supply.
 
 ### Token allocation split
 
