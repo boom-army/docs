@@ -64,13 +64,16 @@ We've targeted 420M tokens to give a good price range on our journey to a fully 
 - [x] Showcase creators wallet NFTs in their profile
 - [x] Rebrand to Boom
 - [x] Rehouse infrastructure on boom.army
-- List token on main-net
-- Provide a liquidity pairing on a Solana Exchange/DEX
+- [x] List token on main-net
+- [x] Provide a liquidity pairing on a Solana Exchange/DEX
+- Mint your own Communities with NFT roles
+- Launch the Boom Army genesis NFT
+- Build a marketplace for NFT buying and selling
 - Start building out the decentralized backend
 - Math Wallet integration
 - Mobile and Tablet functionality fully operational
 - Enable on platform sales of NFTs
-- Allow users to creat collections
+- Allow users to create collections
 - Setup channels
 
 ## Q4 2021
