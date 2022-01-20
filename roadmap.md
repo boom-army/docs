@@ -66,8 +66,8 @@ We've targeted 420M tokens to give a good price range on our journey to a fully 
 - [x] Rehouse infrastructure on boom.army
 - [x] List token on main-net
 - [x] Provide a liquidity pairing on a Solana Exchange/DEX
-- Mint your own Communities with NFT roles
 - Launch the Boom Army genesis NFT
+- Mint your own Communities with NFT roles
 - Build a marketplace for NFT buying and selling
 - Start building out the decentralized backend
 - Math Wallet integration
