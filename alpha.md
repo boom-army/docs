@@ -31,7 +31,7 @@ Just remember Twitter has built their platform over 15 years, while **boom.army*
 
 This is by far the best part of boom.army, and also the part that introduces a brand new social paradigm in the form of Web3. Currently there is a single piece of functionality where this is enabled:
 
-- Emoji reactions: _cost for interaction_ = 0.1 SSL
+- Emoji reactions: _cost for interaction_ = 0.1 BMA
 
 As we do more development more transactional interactions will appear. But at the moment what we're most interested in is proving the concept.
 
@@ -41,13 +41,13 @@ Here's the skinny on what alpha means exaclty, to serve as a guide and set expec
 
 ### The airdrop
 
-We've dropped 1000 $SSL on Testnet to every person in the Alpha Program. With emoji reactions costing just 0.1 SSL, that will give you 10,000 transactions. But remember you'll be earning SSL from people adding emojis to your posts, so if you're popular your balance will go up. It should create a circular economy, where folks who are providing the most content value build up the most tokens over time. So spread those gmoots around people 👌.
+We've dropped 1000 $BMA on Testnet to every person in the Alpha Program. With emoji reactions costing just 0.1 BMA, that will give you 10,000 transactions. But remember you'll be earning BMA from people adding emojis to your posts, so if you're popular your balance will go up. It should create a circular economy, where folks who are providing the most content value build up the most tokens over time. So spread those gmoots around people 👌.
 
-NB - if you don't have $SSL tokens you will be able to post still, but you won't be able to interact or get reactions on your posts.
+NB - if you don't have $BMA tokens you will be able to post still, but you won't be able to interact or get reactions on your posts.
 
 **NB - you'll need $SOL on test-net to pay the small transaction fee. You can get [as much as you need for free here](https://solfaucet.com).**
 
-There's a total of just 420,000,000 $SSL tokens, so that means you own 0.002% of the total supply! If you had the equivalent total supply in $BTC that would equate to about $23.5M USD at it's current price of $62,283.29 USD. That absolutely blows my mind and is obviously not a promise of future value, but it's wild to think about all the same.
+There's a total of just 420,000,000 $BMA tokens, so that means you own 0.002% of the total supply! If you had the equivalent total supply in $BTC that would equate to about $23.5M USD at it's current price of $62,283.29 USD. That absolutely blows my mind and is obviously not a promise of future value, but it's wild to think about all the same.
 
 ### Test Net
 
@@ -79,4 +79,4 @@ As we've been very vocal about, the future of **boom.army** is on the decentrali
 
 ## If you need anything
 
-As you're well aware by now everything is bootstrapped, so if something seems off get in touch with [@harkl\_](https://app.boom.army/harkl) via **boom.army**. The ultimate goal of SSL for the 1303 is to reward you all handsomely, and listen to your feedback to build the best Web3 Social product in the space. LFG!
+As you're well aware by now everything is bootstrapped, so if something seems off get in touch with [@harkl\_](https://app.boom.army/harkl) via **boom.army**. The ultimate goal of BMA for the 1303 is to reward you all handsomely, and listen to your feedback to build the best Web3 Social product in the space. LFG!

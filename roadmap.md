@@ -22,7 +22,7 @@ This document outlines the road map for Boom ($BMA) - A platform designed and bu
 
 ## Tokens
 
-There will be a total of 420 million $SSL tokens with 9 decimal places of divisibility. The smallest unit of $BMA is called a `meep` with 1 billion meeps per $BMA.
+There will be a total of 420 million $BMA tokens with 9 decimal places of divisibility. The smallest unit of $BMA is called a `meep` with 1 billion meeps per $BMA.
 
 ### Market cap spread
 
@@ -83,7 +83,7 @@ We've targeted 420M tokens to give a good price range on our journey to a fully 
 - [x] Engage and onboard a CEO
 - [x] Stabalize the platform in Alpha so all base functionality works seamlessly
 - [x] Setup AWS to launch alpha
-- [x] Launch sosol token on Solana test-net
+- [x] Launch BMA token on Solana test-net
 - [x] Submit an entry to Solana Ignition
 - [x] Establish a [discord channel](https://discord.gg/HfN66JSY) for direct support
 - [x] Improve the UX experience for Content Creators so content is a first class citizen
