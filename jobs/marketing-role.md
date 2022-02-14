@@ -40,4 +40,5 @@ We&#39;re looking for someone with the following skillset to manage our marketin
 If you&#39;re interested in this role please contact Harkl to register your interest via:
 
 Twitter - [https://twitter.com/harkl\_](https://twitter.com/harkl_)
+
 Discord - harkl#3750
