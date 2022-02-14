@@ -13,10 +13,10 @@ This document outlines the road map for Boom ($BMA) - A platform designed and bu
 
 ## Upcoming features
 
-- The ability to mint, showcase and sell NFTs without having to leave the platform
-- NFT enabled access on platform that act as roles, unlocks and experiences based on what you hold in your wallet
-- A fully decentralized blockchain based Open API to enable developers to build Social Media variant apps
-- Open access to API data for any individual to programitically engage with the world's social opinions
+- The ability to mint, display and sell NFTs in your gallery
+- Deliver communities, roles and experiences based on the NFTs you hold in your wallet
+- Decentralise and open source our API to enable developers to build Social Media variant apps on top of Boom.Army
+- Open access to API data for any individual to programmatically engage with the world's social opinions
 - Monetized Rich Content as audio and video
 - Unique Promoter Content that incentivizes airdrop campaigns for promotions and engagement
 
