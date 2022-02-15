@@ -29,10 +29,10 @@ All the most up to date information can be found in our docs folder on Github at
 We&#39;re looking for someone with the following skillset to manage our marketing and social delivery:
 
 - Detailed understanding and experience delivering marketing campaigns across multiple social platforms (Twitter, Discord, Boom.Army, etc.)
-- A good understanding how social communities work
+- A good understanding about how social communities work
 - Good copy writing skills
 - The ability to turn information into short formats for clear communication and high engagement in tweets and posts
-- Basic understanding of graphics software to edit slides and add promo snippets
+- Basic understanding of graphics software to edit slides and add promo snippets (design files supplied)
 - High availability to respond to questions, field enquiries and engage with community
 
 #### Enquiries
