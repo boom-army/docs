@@ -17,7 +17,7 @@ Boom is building a Social Network built on the Solana blockchain to enable peopl
 
 ### 1Q22 Delivery
 
-In the quarter of 2022 we&#39;ve got two big features being delivered that need good comms around them:
+In the first quarter of 2022 we&#39;ve got two big features being delivered that need good comms around them:
 
 1. The ability to mint, display and sell NFTs in your gallery
 2. Deliver communities, roles and experiences based on the NFTs you hold in your wallet
