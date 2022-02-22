@@ -17,7 +17,7 @@ Boom is building a Social Network built on the Solana blockchain to enable peopl
 
 ### 1Q22 Delivery
 
-In the quarter of 2022 we&#39;ve got two big features being delivered that need good comms around them:
+In the first quarter of 2022 we&#39;ve got two big features being delivered that need good comms around them:
 
 1. The ability to mint, display and sell NFTs in your gallery
 2. Deliver communities, roles and experiences based on the NFTs you hold in your wallet
@@ -29,10 +29,10 @@ All the most up to date information can be found in our docs folder on Github at
 We&#39;re looking for someone with the following skillset to manage our marketing and social delivery:
 
 - Detailed understanding and experience delivering marketing campaigns across multiple social platforms (Twitter, Discord, Boom.Army, etc.)
-- A good understanding how social communities work
+- A good understanding about how social communities work
 - Good copy writing skills
 - The ability to turn information into short formats for clear communication and high engagement in tweets and posts
-- Basic understanding of graphics software to edit slides and add promo snippets
+- Basic understanding of graphics software to edit slides and add promo snippets (design files supplied)
 - High availability to respond to questions, field enquiries and engage with community
 
 #### Enquiries
@@ -40,4 +40,5 @@ We&#39;re looking for someone with the following skillset to manage our marketin
 If you&#39;re interested in this role please contact Harkl to register your interest via:
 
 Twitter - [https://twitter.com/harkl\_](https://twitter.com/harkl_)
+
 Discord - harkl#3750
