@@ -24,9 +24,7 @@ The Season Challenge Pass is a #BoomHeroes generative NFT, and will be required 
 
 There will be 4 NFT action cards in Season Challenge 1. Three of the cards will be included with the Season Pass and the 4th will be able to be purchased as a separate special season card.
 
-### 3 Standard Included Season Cards
-
-#### Sadar Wa (The Meepor)
+### Sadar Wa (The Meepor)
 
 ![Sadar Wa NFT Regular Action Card](./assets/img/season-challenges/SadarWaDone.jpg)
 :--:
@@ -44,7 +42,7 @@ _Rare: 50 Meeps_
 
 _Limit: 1 per account_
 
-#### Discus Max (The Commentator)
+### Discus Max (The Commentator)
 
 ![Discus Max NFT Regular Action Card](./assets/img/season-challenges/DiscusMaxDone.jpg)
 :--:
@@ -60,7 +58,7 @@ _Rare: 20 Comments_
 
 _Limit: 1 per account_
 
-#### Badgemon (The Bestower of Likes)
+### Badgemon (The Bestower of Likes)
 
 ![Badgemon NFT Regular Action Card](./assets/img/season-challenges/BadgemonDone.jpg)
 :--:
@@ -76,7 +74,7 @@ _Rare: 100 Emojis_
 
 _Limit: 1 per account_
 
-#### The Harvester (Farmer of BMA)
+### The Harvester (Farmer of BMA)
 
 The Harvester is a card that recognizes an achievement for farming BMA/USDC on Aldrin at [https://dex.aldrin.com/pools/BMA\_USDC](https://dex.aldrin.com/pools/BMA_USDC). To level up the card during the Season Challenge the holder must stake the following amounts of $BMA with $USDC on [Aldrin](https://dex.aldrin.com/pools/BMA_USDC) to reach the corresponding level.
 
@@ -88,9 +86,9 @@ _Rare: 50+ USDC_
 
 _Limit: 1 per account_
 
-### 1 Special Season Card
+## 1 Special Season Card
 
-#### El Brazos (Distributor of BMA)
+### El Brazos (Distributor of BMA)
 
 ![El Brazos NFT Regular Action Card](./assets/img/season-challenges/TheDistributorRevised.jpg)
 :--:
@@ -108,7 +106,7 @@ _Rare: 100 $BMA_
 
 _Limit: 1 per account_
 
-### Style
+### Season Challenge Completion
 
 All the initial NFT Action Cards will be airdropped to Season Challenge Pass holders on the Season Challenge Start Date and will be Regular rarity.
 
