@@ -6,21 +6,23 @@ Boom.Army is going to run time boxed seasons, where users will purchase a genera
 
 We may find better terms as we go for the language but here is the taxonomy and meaning of the language.
 
-**Season** - Era, Epoch, Cycle, Age, Generation
+**Season Challenge** - A duration of 4 weeks over which each of the challenges need to be completed
 
-**Action Card** - a task based NFT card, that needs to be completed to be realised
+**Season Challenge Pass** - The #BoomHeroes generative NFT that will give you access to the Season Challenge competition. All wallets holding a Season Challenge Pass will have Regular rarity NFT Action Cards airdropped to them.
+
+**NFT Action Card** - a task based NFT card, that can be leveled up (from Regular -> Rare -> Ultra-rare -> Legendary) according to the completness of the Season Challenge tasks.
 
 ## Time boxes
 
-The first Season will run for 4 weeks, but eventually we&#39;ll aim to run each Season for 10 weeks to allow for longer term campaigns. The target date for the first season is the start of April.
+The first Season will run for 4 weeks, but eventually we&#39;ll aim to run each Season for a longer duration to allow for longer term campaigns. The target launch date for the Season Challenge 1 is April 2022.
 
-## Season Passes
+## Season Challenge Passes
 
-The Season ticket is a generative NFT and will cost 0.5 SOL. You will get 3 extra action card NFTs with your ticket. The 3 action card NFTs have a task to complete and will transform to Gold, silver or bronze status if completed - your NFT will get more valuable with the completed tasks.
+The Season Challenge Pass is a #BoomHeroes generative NFT, and will be required to participate in the NFT Action Card tasks. Season Challenge Pass holders will be airdropped all NFT Action Cards the day before the Season Challenge starts. The NFT Action Cards have a task to complete and will transform from Regular -> Rare -> Ultra-rare -> Legendary status depending on the level of task completion.
 
-## Action Cards
+## NFT Action Cards
 
-There will be 4 NFT action cards in Season 1. 3 of the cards will be included with the Season Pass and the 4th will be able to be purchased as a separate special season card.
+There will be 4 NFT action cards in Season Challenge 1. Three of the cards will be included with the Season Pass and the 4th will be able to be purchased as a separate special season card.
 
 ### 3 Standard Included Season Cards
 
@@ -28,55 +30,49 @@ There will be 4 NFT action cards in Season 1. 3 of the cards will be included wi
 
 Sadar Wa is a card that recognizes the number of meeps a person makes.
 
-Sadar Wa should be a mystic/seer type character with wisdom vibes. Sadarwa means &quot;communicate&quot; in the Hausa language used predominantly in Nigeria.
+Sadar Wa should be a mystic/seer type character with wisdom vibes. Sadarwa means &quot;communicate&quot; in the Hausa language used predominantly in Nigeria. To level up the card during the Season Challenge the holder must post the following number of Meeps on [app.boom.army](https://app.boom.army) to reach the corresponding level.
 
-_Gold: 500 Meeps_
+_Legendary: 300 Meeps_
 
-_Silver: 200 Meeps_
+_Ultra-rare: 150 Meeps_
 
-_Bronze: 50 Meeps_
+_Rare: 50 Meeps_
 
 _Limit: 1 per account_
 
 #### Discus Max (The Commentator)
 
-Discus Max is a card that recognizes an achievement on the number of comments a person makes.
+Discus Max is a card that recognizes an achievement on the number of comments a person makes. To level up the card during the Season Challenge the holder must comment on posts with the following number of comments on [app.boom.army](https://app.boom.army) to reach the corresponding level.
 
-Disqus max should be a robot style character. Could be a cyborg also.
+_Legendary: 100 Comments_
 
-_Gold: 500 Comments_
+_Ultra-rare: 50 Comments_
 
-_Silver: 200 Comments_
-
-_Bronze: 50 Comments_
+_Rare: 20 Comments_
 
 _Limit: 1 per account_
 
 #### Badgemon (The Bestower of Likes)
 
-Badgemon is a card that recognizes an achievement for the number of emojis a person adds to meeps.
+Badgemon is a card that recognizes an achievement for the number of emojis a person reacts to meeps with. To level up the card during the Season Challenge the holder must react with the following amounts of emojis on Meeps at [app.boom.army](https://app.boom.army) to reach the corresponding level.
 
-Badgemon could be heavily influenced by Japanese Anime and could be quite monster like.
+_Legendary: 300 Emojis_
 
-_Gold: 500 Emojis_
+_Ultra-rare: 150 Emojis_
 
-_Silver: 200 Emojis_
-
-_Bronze: 50 Emojis_
+_Rare: 100 Emojis_
 
 _Limit: 1 per account_
 
 #### The Harvester (Farmer of BMA)
 
-The Harvester is a card that recognizes an achievement for farming BMA/USDC on Aldrin at [https://dex.aldrin.com/pools/BMA\_USDC](https://dex.aldrin.com/pools/BMA_USDC).
+The Harvester is a card that recognizes an achievement for farming BMA/USDC on Aldrin at [https://dex.aldrin.com/pools/BMA\_USDC](https://dex.aldrin.com/pools/BMA_USDC). To level up the card during the Season Challenge the holder must stake the following amounts of $BMA with $USDC on [Aldrin](https://dex.aldrin.com/pools/BMA_USDC) to reach the corresponding level.
 
-The character should be based on themes of gathering and harvesting tokens. Happy to dig into scythes for this, but keep it full of life rather than &quot;grim reaper&quot; death styles.
+_Legendary: 1000+ USDC_
 
-_Gold: 1000 USDC+_
+_Ultra-rare: 300+ USDC_
 
-_Silver: 300 USDC+_
-
-_Bronze: 50 USDC+_
+_Rare: 50+ USDC_
 
 _Limit: 1 per account_
 
@@ -84,24 +80,20 @@ _Limit: 1 per account_
 
 #### El Brazos (Distributor of BMA)
 
-El Brazos is a card that comes with 100 $BMA recognizes an achievement for the number of emojis a person adds to meeps.
+El Brazos is a card that comes with 100 $BMA recognizes an achievement for the number of emojis a person adds to meeps. To level up the card during the Season Challenge the holder must distribute the following amounts of $BMA through tipping on [app.boom.army](https://app.boom.army) to reach the corresponding level.
 
 _Cost: 0.5 SOL_
 
-_Gold: 300 $BMA_
+_Legendary: 200 $BMA_
 
-_Silver: 200 $BMA_
+_Ultra-rare: 150 $BMA_
 
-_Bronze: 100 $BMA_
+_Rare: 100 $BMA_
 
 _Limit: 1 per account_
 
 ### Style
 
-All initial action cards will look identical with a boom logo, a distinct title, the season number and a description about what the action required to complete the card is. All the details of the card will be in the metadata on the NFT.
+All the initial NFT Action Cards will be airdropped to Season Challenge Pass holders on the Season Challenge Start Date and will be Regular rarity.
 
-![](RackMultipart20220222-4-1xnon3v_html_ff5f9d39de995f81.png)
-
-Once the season is complete we will use the database to tally up all the required params for the completion of the card. There will be 3 tiers of completion - gold, silver and bronze. Depending on the criteria the User&#39;s NFT will be updated to the hero card of the corresponding completion.
-
-![](RackMultipart20220222-4-1xnon3v_html_ca4f75ca7398139d.png) ![](RackMultipart20220222-4-1xnon3v_html_10b9a6d3f2458424.png) ![](RackMultipart20220222-4-1xnon3v_html_a7b1f568a44c4d60.png)
+Once the Season Challenge is complete, we will programatically tally up all the required metrics for the completion of the card. There will be 3 tiers of completion - Rare, Ultra-Rare and Legendary. Depending on the criteria outlined above the NFT will be updated to the level of the corresponding completion.
