@@ -106,7 +106,7 @@ _Rare: 100 $BMA_
 
 _Limit: 1 per account_
 
-### Season Challenge Completion
+## Season Challenge Completion
 
 All the initial NFT Action Cards will be airdropped to Season Challenge Pass holders on the Season Challenge Start Date and will be Regular rarity.
 
