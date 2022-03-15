@@ -6,7 +6,7 @@ Boom.Army is going to run Season Challenges, where users will purchase a #BoomHe
 
 We may find better terms as we go for the language but here is the taxonomy and meaning of the language.
 
-**Season Challenge** - A duration of 4 weeks over which each of the challenges need to be completed
+**Season Challenge** - A duration of 4 weeks over which each of the challenges need to be completed.
 
 **Season Challenge Pass** - The #BoomHeroes generative NFT that will give you access to the Season Challenge competition. All wallets holding a Season Challenge Pass will have Regular rarity NFT Action Cards airdropped to them.
 
