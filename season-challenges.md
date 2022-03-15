@@ -28,6 +28,10 @@ There will be 4 NFT action cards in Season Challenge 1. Three of the cards will 
 
 #### Sadar Wa (The Meepor)
 
+![Sadar Wa NFT Regular Action Card](./assets/img/season-challenges/SadarWaDone.jpg)
+:--:
+Sadar Wa NFT Regular Action Card
+
 Sadar Wa is a card that recognizes the number of meeps a person makes.
 
 Sadar Wa should be a mystic/seer type character with wisdom vibes. Sadarwa means &quot;communicate&quot; in the Hausa language used predominantly in Nigeria. To level up the card during the Season Challenge the holder must post the following number of Meeps on [app.boom.army](https://app.boom.army) to reach the corresponding level.
@@ -42,6 +46,10 @@ _Limit: 1 per account_
 
 #### Discus Max (The Commentator)
 
+![Discus Max NFT Regular Action Card](./assets/img/season-challenges/DiscusMaxDone.jpg)
+:--:
+Discus Max NFT Regular Action Card
+
 Discus Max is a card that recognizes an achievement on the number of comments a person makes. To level up the card during the Season Challenge the holder must comment on posts with the following number of comments on [app.boom.army](https://app.boom.army) to reach the corresponding level.
 
 _Legendary: 100 Comments_
@@ -53,6 +61,10 @@ _Rare: 20 Comments_
 _Limit: 1 per account_
 
 #### Badgemon (The Bestower of Likes)
+
+![Badgemon NFT Regular Action Card](./assets/img/season-challenges/BadgemonDone.jpg)
+:--:
+Badgemon NFT Regular Action Card
 
 Badgemon is a card that recognizes an achievement for the number of emojis a person reacts to meeps with. To level up the card during the Season Challenge the holder must react with the following amounts of emojis on Meeps at [app.boom.army](https://app.boom.army) to reach the corresponding level.
 
@@ -79,6 +91,10 @@ _Limit: 1 per account_
 ### 1 Special Season Card
 
 #### El Brazos (Distributor of BMA)
+
+![El Brazos NFT Regular Action Card](./assets/img/season-challenges/TheDistributorRevised.jpg)
+:--:
+El Brazos NFT Regular Action Card
 
 El Brazos is a card that comes with 100 $BMA recognizes an achievement for the number of emojis a person adds to meeps. To level up the card during the Season Challenge the holder must distribute the following amounts of $BMA through tipping on [app.boom.army](https://app.boom.army) to reach the corresponding level.
 
