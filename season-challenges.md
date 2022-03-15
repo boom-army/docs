@@ -1,6 +1,6 @@
 # Boom.Army Seasons
 
-Boom.Army is going to run time boxed seasons, where users will purchase a generative NFT Season Pass to participate. The Season Pass will come with action cards that are able to be completed to unlock levels.
+Boom.Army is going to run Season Challenges, where users will purchase a #BoomHeroes Season Challenge Pass NFT to participate. The Season Challenge Pass will come with several airdropped NFT Action Cards, that are able to be leveled up by completing tasks on the Boom.Army platform.
 
 ## Taxonomy
 
