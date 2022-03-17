@@ -110,4 +110,4 @@ _Limit: 1 per account_
 
 All the initial NFT Action Cards will be airdropped to Season Challenge Pass holders on the Season Challenge Start Date and will be Regular rarity.
 
-Once the Season Challenge is complete, we will programatically tally up all the required metrics for the completion of the card. There will be 3 tiers of completion - Rare, Ultra-Rare and Legendary. Depending on the criteria outlined above the NFT will be updated to the level of the corresponding completion.
+Once the Season Challenge is complete, we will programatically tally up all the required metrics for the completion of the card. There will be 3 tiers of completion - Rare, Ultra-Rare and Legendary. Level-up your Action Card NFT by completing all mission parameters and it could unlock a legendary NFT.
