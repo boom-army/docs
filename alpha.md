@@ -63,7 +63,7 @@ Also remember that your wallet address will be the SAME on both Testnet and Main
 
 To view your testnet balance, you'll need to go to your Phantom Wallet Settings by clicking the gear icon in the bottom left and changing your network.
 
-![Phantom Wallet Settings](./assets/img/phantom-testnet.png)
+![Phantom Wallet Settings](./md_assets/img/phantom-testnet.png)
 
 ## Our servers
 

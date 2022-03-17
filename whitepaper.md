@@ -41,13 +41,13 @@ The **boom.army** token for engaging with the **boom.army** program on main-net 
 
 The program should enable Content Creators to attach value to their content on creation. The Content Consumer should be able to view basic post meta-data without making a transaction, but specific interactions should trigger a transaction for encrypted content engagement. This should generate a payment from the Consumer to the Creator with a small portion of the fee being split out for the Content Host. The specific interaction micro-transaction is determined by the platform, but could cover a wide variety of scenarios from emoji reactions to consuming rich media.
 
-![Content Creator to Content Consumer flow diagram](./assets/img/creator-to-consumer.png)
+![Content Creator to Content Consumer flow diagram](./md_assets/img/creator-to-consumer.png)
 
 ### Content Promoter to Content Consumer (push model)
 
 The program should enable Content Promoters (eg. advertisers) to promote their content within the platform. Consumers should be paid out directly from the content escrow account that lives in the **boom.army** program. Promoters should be able to attach value to any post on creation, by depositing into the program escrow account, a fixed amount of **boom.army** tokens to be distributed in discrete amounts limited by any Consumer account address. When a transaction is executed, the tokens associated with the post should be paid out at the specified rate and ratio to the Consumer and Host.
 
-![Content Promoter to Content Consumer flow diagram](./assets/img/promoter-to-consumer.png)
+![Content Promoter to Content Consumer flow diagram](./md_assets/img/promoter-to-consumer.png)
 
 ## Conclusion
 

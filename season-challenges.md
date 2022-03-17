@@ -26,7 +26,7 @@ There will be 4 NFT action cards in Season Challenge 1. Three of the cards will 
 
 ### Sadar Wa (The Meepor)
 
-![Sadar Wa NFT Regular Action Card](./assets/img/season-challenges/SadarWaDone.jpg)
+![Sadar Wa NFT Regular Action Card](./md_assets/img/season-challenges/SadarWaDone.jpg)
 :--:
 Sadar Wa NFT Regular Action Card
 
@@ -44,7 +44,7 @@ _Limit: 1 per account_
 
 ### Discus Max (The Commentator)
 
-![Discus Max NFT Regular Action Card](./assets/img/season-challenges/DiscusMaxDone.jpg)
+![Discus Max NFT Regular Action Card](./md_assets/img/season-challenges/DiscusMaxDone.jpg)
 :--:
 Discus Max NFT Regular Action Card
 
@@ -60,7 +60,7 @@ _Limit: 1 per account_
 
 ### Badgemon (The Bestower of Likes)
 
-![Badgemon NFT Regular Action Card](./assets/img/season-challenges/BadgemonDone.jpg)
+![Badgemon NFT Regular Action Card](./md_assets/img/season-challenges/BadgemonDone.jpg)
 :--:
 Badgemon NFT Regular Action Card
 
@@ -90,7 +90,7 @@ _Limit: 1 per account_
 
 ### El Brazos (Distributor of BMA)
 
-![El Brazos NFT Regular Action Card](./assets/img/season-challenges/TheDistributorRevised.jpg)
+![El Brazos NFT Regular Action Card](./md_assets/img/season-challenges/TheDistributorRevised.jpg)
 :--:
 El Brazos NFT Regular Action Card
 
