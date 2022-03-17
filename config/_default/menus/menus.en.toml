@@ -2,35 +2,29 @@
   name = "Prologue"
   weight = 10
   identifier = "prologue"
-  url = "/docs/prologue/"
+  url = "/prologue/"
 
 # [[docs]]
 #   name = "Help"
 #   weight = 60
 #   identifier = "help"
-#   url = "/docs/help/"
+#   url = "/help/"
 
-[[docs]]
-  name = "Lorem"
-  weight = 70
-  identifier = "lorem"
-  url = "/docs/lorem/"
-
-[[guide]]
-  name = "Lorem"
-  weight = 10
-  identifier = "lorem"
-  url = "/guide/lorem/"
+# [[guide]]
+#   name = "Lorem"
+#   weight = 10
+#   identifier = "lorem"
+#   url = "/guide/lorem/"
 
 [[tutorial]]
   name = "Lorem"
   weight = 10
   identifier = "lorem"
-  url = "/tutorial/lorem/"
+  url = "tutorial/lorem/"
 
 [[main]]
   name = "Docs"
-  url = "/docs/prologue/introduction/"
+  url = "/prologue/introduction/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
@@ -41,7 +35,7 @@
 
 [[main]]
   name = "Blog"
-  url = "/blog/"
+  url = "blog/"
   weight = 20
 
 # [[main]]
