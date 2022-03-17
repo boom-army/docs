@@ -44,19 +44,6 @@
   url = "/blog/"
   weight = 20
 
-[[main]]
-  name = "Get Started"
-  weight = 30
-  identifier = "get-started"
-  url = "/docs/prologue/introduction/"
-
-[[main]]
-  name = "Quick Start"
-  weight = 40
-  identifier = "quick-start"
-  url = "/docs/prologue/quick-start/"
-  parent = "get-started"
-
 # [[main]]
 #   name = "Tutorial"
 #   weight = 50

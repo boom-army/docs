@@ -6,48 +6,54 @@
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-lg px-4 mb-2" href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}prologue/introduction/" role="button">Get Started</a>
-      <p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ $data := getJSON "/package.json" }}{{ $data.version }}</a></p>
+      <a class="btn btn-primary btn-lg px-4 mb-2"
+        href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}prologue/introduction/"
+        role="button">Go to docs</a>
     </div>
   </div>
 </section>
 {{ end }}
 
 {{ define "sidebar-prefooter" }}
-  {{ if eq $.Site.Language.LanguageName "English" }}
-  <section class="section section-sm">
-    <div class="container">
-      <div class="row justify-content-center text-center">
-        <div class="col-lg-5">
-          <h2 class="h4">Security aware</h2>
-          <p>Get A+ scores on <a href="https://observatory.mozilla.org/analyze/doks.netlify.app">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.</p>
-        </div>
-        <div class="col-lg-5">
-          <h2 class="h4">Fast by default ⚡️</h2>
-          <p>Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=92eaa982d7dbf92f94fe8ecc03987c9a">Google Lighthouse</a> by default. Doks removes unused css, prefetches links, and lazy loads images.</p>
-        </div>
-        <div class="col-lg-5">
-          <h2 class="h4">SEO-ready</h2>
-          <p>Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking.</p>
-        </div>
+{{ if eq $.Site.Language.LanguageName "English" }}
+<section class="section section-sm">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <h2 class="h4">Boom Heroes Challenge</h2>
+        <p>Boom.Army is going to run <a href="/docs/prologue/season-challenges/">Season Challenges</a>, where users will
+          purchase a #BoomHeroes Season Challenge Pass NFT to participate. </p>
       </div>
-      <div class="row justify-content-center text-center">
-        <div class="col-lg-5">
-          <h2 class="h4">Full text search</h2>
-          <p>Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking.</p>
-        </div>
-        <div class="col-lg-5">
-          <h2 class="h4">Page layouts</h2>
-          <p>Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs.</p>
-        </div>
-        <div class="col-lg-5">
-          <h2 class="h4">Dark mode</h2>
-          <p>Switch to a low-light UI with the click of a button. Change colors with variables to match your branding.</p>
-        </div>
+      <div class="col-lg-5">
+        <h2 class="h4">1303 OG NFT</h2>
+        <p>There are <a href="/docs/prologue/1303/">1303 OG NFTs</a> in existence,and they will all receive a split
+          share of 20% of our future Market Place fees in perpetuity.</p>
+      </div>
+      <div class="col-lg-5">
+        <h2 class="h4">Farming $BMA on Aldrin</h2>
+        <p>You can <a href="https://dex.aldrin.com/pools/BMA_USDC" target="_blank">farm $BMA and get rewards for staked tokens on Aldrin</a>. The current APR for farming is one of the
+          highest returns on Aldrin in the eco-system led pools.</p>
       </div>
     </div>
-  </section>
-  {{ end }}
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <h2 class="h4">One Click NFT Minting</h2>
+        <p>Mint your own NFTs with one click on Boom and add attribute rules to govern your Communities.</p>
+      </div>
+      <div class="col-lg-5">
+        <h2 class="h4">Community channels</h2>
+        <p>Issue custom NFTs to your users to give them access to your channel. NFTs can also be used for allocating
+          roles.</p>
+      </div>
+      <div class="col-lg-5">
+        <h2 class="h4">NFT market place</h2>
+        <p>Launch your own NFT Marketplace to display and sell NFTs that you own or have created on Boom!</p>
+      </div>
+    </div>
+
+  </div>
+</section>
+{{ end }}
 {{ end }}
 
 {{ define "sidebar-footer" }}
