@@ -10,9 +10,9 @@ description = "All of the readmes, wikis and guides for everything to do with ap
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png"]
+images = ["boom-army.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
+domainTLD = "boom.army/docs"
 titleHome = "Boom Army Docs"
 
 ## Twitter Cards
@@ -22,7 +22,7 @@ twitterCreator = "@harkl"
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
-schemaName = "Doks"
+schemaName = "Boom.Army"
 schemaAuthor = "Harkl"
 schemaAuthorTwitter = "https://twitter.com/harkl_"
 # schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
@@ -31,7 +31,7 @@ schemaLocale = "en-US"
 schemaLogo = "logo-doks.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-schemaImage = "doks.png"
+schemaImage = "boom-army.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/boom_army_"
