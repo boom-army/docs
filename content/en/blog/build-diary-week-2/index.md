@@ -7,7 +7,7 @@ lastmod: 2022-03-18T15:31:47+13:00
 draft: false
 weight: 50
 images: ["build-diary-week-2.png"]
-contributors: []
+contributors: ["Harkl"]
 ---
 
 Going to keep this short and snappy @everyone so you can get max info for minimum time spent:
@@ -18,10 +18,10 @@ Going to keep this short and snappy @everyone so you can get max info for minimu
 - We've hired two absolutely amazing artists to realize Season passes and the first 4 action cards that will be available in Season 1
 - Boom.Army now has hover states to see who liked a Meep
 - We saw 1.14K unique vistors on the site this week which is a new record 🎉 
-- 340 hodlers now have $BMA in their wallets https://birdeye.so/token/boomh1LQnwDnHtKxWTFgxcbdRjPypRSjdwxkAEJkFSH
+- 340 hodlers now have [$BMA in their wallets](https://birdeye.so/token/boomh1LQnwDnHtKxWTFgxcbdRjPypRSjdwxkAEJkFSH)
 - We're still in the process of figuring out how to airdrop the testnet SSL to accounts. We've got some ideas but it might be delayed a little longer.
 - The build of NFT driven Community spaces has started
-- Our BMA/USDC farming pool now has 30K TVL and the current APR for farming is 112% https://dex.aldrin.com/pools/BMA_USDC
+- Our BMA/USDC farming pool now has 30K [TVL and the current APR for farming is 112%](https://dex.aldrin.com/pools/BMA_USDC) 
 
 ![Unique Vistors](build-diary-week-2.png)
 

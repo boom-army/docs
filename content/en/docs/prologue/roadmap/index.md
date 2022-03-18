@@ -52,11 +52,11 @@ We've targeted 420M tokens to give a good price range on our journey to a fully 
 - [Quiet Salad](https://twitter.com/dingo_dingo2020) - CEO
 - [Harkl](https://twitter.com/harkl_) - CTO
 - [Bort](https://github.com/Bort-license-plate) - Developer
-- [Whichape](https://github.com/whichape) - Developer
 - [Scifilove](https://github.com/scifilove) - Developer
-- [bensage.sol](https://twitter.com/Chimdalu_O) - Designer
-- [Illyrian](https://twitter.com/illyrian1234) - Community Manager/Research
-- [Hyperion](https://twitter.com/odinreport) - Community Manager
+- Vikesh - Developer
+- [Flamulus](https://twitter.com/Flamulus) - Community Manager
+- Von - NFT Artist
+- Zidiyat - NFT Artist
 
 ### Hiring (position filled if checked)
 
@@ -77,9 +77,9 @@ We've targeted 420M tokens to give a good price range on our journey to a fully 
 - [x] List token on main-net
 - [x] Provide a liquidity pairing on a Solana Exchange/DEX
 - [x] Launch the Boom Army genesis NFT
-- Mobile and Tablet functionality fully operational
+- [x] Mobile and Tablet functionality fully operational
+- [x] Integrate existing NFTs as Community Channels
 - Mint your own Community Channels with NFT roles
-- Integrate existing NFTs as Community Channels
 - Build a marketplace for NFT buying and selling
 - Start building out the decentralized backend
 - Slope Wallet integration

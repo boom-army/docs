@@ -7,7 +7,7 @@ lastmod: 2022-03-18T15:36:06+13:00
 draft: false
 weight: 50
 images: ["build-diary-week-1.jpg"]
-contributors: []
+contributors: ["Harkl"]
 ---
 
 Here's a list of the core things happening at the moment to keep you in the loop:
