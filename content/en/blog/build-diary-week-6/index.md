@@ -21,13 +21,13 @@ The third feature that we're currently finishing is:
 
 During the last few weeks while I've been building these out, I've realised a few things. Namely that we're going to end up with two different types of content threads.
 
-## Content type 1
+## Content type 1 - Posts
 
-The first is akin to a Blog, Medium, Reddit or Twitter where users are making a top level post focused on content and users are looking for that content then commenting on the post. This is the beta structure that we’ve got roughly built out in our Global Channel at the moment. It warrant’s a very specific approach to the UX, and it’s why when you look at all these sorts of sites, the wysiwyg to add content is typically position above the other content in the top of the screen.
+The first is akin to Medium, Reddit, Twitter or Wordpress where users are making a top level post focused on content and users are looking for that content then commenting on the post. This is the beta structure that we’ve got roughly built out in our Global Channel at the moment. It warrant’s a very specific approach to the UX, and it’s why when you look at all these sorts of sites, the wysiwyg to add content is typically position above the other content in the top of the screen.
 
 ![Boom Content Post](boom-content.png)
 
-## Content type 2
+## Content type 2 - Messaging
 
 The second content type is related directly to Community DAO Channels and a more message based chat experience. This is closer in style to any messaging app you're using like WhatsApp or Telegram. The content flow is bottom up and the input box is located at the bottom of the page to reflect the more conversational nature of the chat.
 
