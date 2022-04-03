@@ -12,6 +12,17 @@ menu:
 weight: 200
 toc: true
 ---
+
+## Key details
+
+- Launch date April 15
+- 4777 Boom Heroes Season Challenge Passes available
+- Season Challenge Pass Cost: 0.5 SOL
+- Season 1 Challenge Passes will act as Passes for ALL future Season Challenges
+- Future Season Challenge Passes will only be valid for a single Season
+- There are 3 Complimentary Action Card NFT Challenges
+- There is one pay to play Action Card NFT Challenge
+
 ## Taxonomy
 
 Here is the taxonomy and meaning of the language for the first Boom Heroes Season Challenge.
