@@ -58,15 +58,17 @@ We've targeted 420M tokens to give a good price range on our journey to a fully 
 - Von - NFT Artist
 - Zidiyat - NFT Artist
 
-### Hiring (position filled if checked)
+## Q2 2022
 
-- [x] JS Developer
-- [x] JS Developer
-- [x] Community Manager
-- [x] Community Manager
-- [x] UX Designer
-- DevOps for AWS/Docker/IPFS
-- Rust Developer
+- Launch Boom Heroes Season One Challenge - 15 April
+- Season One Challenge Leaderboard
+- Meep Ups functionality - IRL events booking system
+- Transferable accounts using NFT metadata - send your entire profile as an NFT
+- Verified user badges with NFT staking and lock-up
+- Mint your own NFT Roles for Community Channels
+- User profile marketplace for NFT buy, sell, swap
+- NFT Portfolio price tracking
+- Slope Wallet integration
 
 ## Q1 2022
 
@@ -79,11 +81,8 @@ We've targeted 420M tokens to give a good price range on our journey to a fully 
 - [x] Launch the Boom Army genesis NFT
 - [x] Mobile and Tablet functionality fully operational
 - [x] Integrate existing NFTs as Community Channels
-- Mint your own Community Channels with NFT roles
-- Build a marketplace for NFT buying and selling
-- Start building out the decentralized backend
-- Slope Wallet integration
-- Allow users to create collections
+- [x] Complete Art Work for Boom Heroes
+- [x] Allow users to create collections
 
 ## Q4 2021
 
