@@ -60,15 +60,16 @@ We've targeted 420M tokens to give a good price range on our journey to a fully 
 
 ## Q2 2022
 
-- Launch Boom Heroes Season One Challenge - 15 April
-- Season One Challenge Leaderboard
-- Meep Ups functionality - IRL events booking system
-- Transferable accounts using NFT metadata - send your entire profile as an NFT
+- Launch Boom Heroes NFT - 15 April
+- Solana News Feeds - curated content and channels
+- NFT Portfolio price tracking tools
+- NFT based account data - for verification, authentication, transfer and validation
 - Verified user badges with NFT staking and lock-up
 - Mint your own NFT Roles for Community Channels
-- User profile marketplace for NFT buy, sell, swap
-- NFT Portfolio price tracking
-- Slope Wallet integration
+- User marketplace for NFT buy, sell, swap
+- Weekly Solana Report with top news in executive format
+- Email address integration for report delivery
+- All wallets in the Solana Wallet protocol integrated
 
 ## Q1 2022
 
@@ -113,3 +114,9 @@ We've targeted 420M tokens to give a good price range on our journey to a fully 
 - [x] Setup a database in Postgres to store Alpha data
 - [x] Build a base of Alpha testers (1303 finalized)
 - [x] Setup a Twitter account and start building a community
+
+## Backlog
+
+- Season One Challenge Action Cards Launch (Date TBA)
+- Season One Challenge Leaderboard
+- Meep Ups functionality - IRL events booking system
