@@ -2,11 +2,11 @@
 title: "💥 Build diary - 9 💥"
 description: "It's time to take stock and double down on what we've built so far."
 lead: "It's time to take stock and double down on what we've built so far."
-date: 2022-04-11T15:41:35+13:00
-lastmod: 2022-04-11T15:41:35+13:00
+date: 2022-04-11T15:36:06+13:00
+lastmod: 2022-04-11T15:36:06+13:00
 draft: false
 weight: 50
-images: []
+images: ["content-marketing.jpg"]
 contributors: ["Harkl"]
 ---
 
@@ -21,7 +21,7 @@ Now the real challenge is one of content and delivering on the "Media" part of t
 
 <img src="content-marketing.jpg" alt="Content Marketing" width="400"/>
 
-In 1996 Bill Gates penned an essay called ["Content is King"](https://web.archive.org/web/20010126005200/http://www.microsoft.com/billgates/columns/1996essay/essay960103.asp){:target="_blank"}, that outlined his thoughts on where a lot of the money would be made on the web. The opening statement he made was:
+In 1996 Bill Gates penned an essay called ["Content is King"](https://web.archive.org/web/20010126005200/http://www.microsoft.com/billgates/columns/1996essay/essay960103.asp), that outlined his thoughts on where a lot of the money would be made on the web. The opening statement he made was:
 
 > Content is where I expect much of the real money will be made on the Internet, just as it was in broadcasting.
 
@@ -78,3 +78,4 @@ A big part of this is just simplifying what the offering is currently. We've got
 ## Conclusion
 
 The Solana space is crazy. It's the most massive learning curve I've ever had to deal with and I've been involved in delivering everything web for over 15 years. We've got the most phenomenal passionate community, and I'm constantly humbled by the energy they bring to what we're doing. In the last 6 months we've built a container to hold content, and now we're ready to really press into how that content will be shaped.
+
