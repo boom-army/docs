@@ -1,6 +1,6 @@
 ---
 title: "💥 Build diary - 10 💥"
-description: "Two weeks ago we launched Boom Heroes. It was a bit of a mad rush to hit the April 15 deadline, and over a single 14 hour day I built all the traits."
+description: "In this update: Market place update. Arweave image uploader. Twitter Ban. I need help..."
 lead: "Two weeks ago we launched Boom Heroes."
 date: 2022-04-29T15:36:06+13:00
 lastmod: 2022-04-29T15:36:06+13:00

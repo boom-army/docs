@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://boom.army/docs/sitemap.xml
