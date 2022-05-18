@@ -10,7 +10,7 @@ images: ["drowxes.png"]
 contributors: ["Harkl"]
 ---
 
-While the market has been on fire, I've been quietly getting on with building. Here's the things Boom has delivered since the last update.
+Here's the things Boom has delivered since the last update.
 
 ### Updated the entire Candy Machine v2 platform
 
