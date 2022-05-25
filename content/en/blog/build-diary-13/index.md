@@ -2,8 +2,8 @@
 title: "💥 Build diary - 13 💥"
 description: "In this issue - News feeds live, UX redo, Video embeds, Channels, NFT Customs."
 lead: "We've just ticked over 22k posts on Boom Army which is a pretty big milestone IMO."
-date: 2022-01-25T04:40:56+01:00
-lastmod: 2022-01-25T04:40:56+01:00
+date: 2022-05-25T04:40:56+01:00
+lastmod: 2022-05-25T04:40:56+01:00
 draft: false
 weight: 50
 images: ["news.png"]
