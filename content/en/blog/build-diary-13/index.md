@@ -64,4 +64,10 @@ All profiles can now be viewed without having to connect a wallet to [Boom Army]
 
 [Hitman](https://app.boom.army/hitman)
 
+### Nacho
+
+<img src="nachoroyalblue.png" alt="Nacho" width="400"/>
+
+[Nacho](https://app.boom.army/Nacho)
+
 Until we meet IRL - [harkl_](https://twitter.com/harkl_)
