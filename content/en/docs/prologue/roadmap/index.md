@@ -51,25 +51,28 @@ We've targeted 420M tokens to give a good price range on our journey to a fully 
 
 - [Quiet Salad](https://twitter.com/dingo_dingo2020) - CEO
 - [Harkl](https://twitter.com/harkl_) - CTO
-- [Bort](https://github.com/Bort-license-plate) - Developer
-- [Scifilove](https://github.com/scifilove) - Developer
-- Vikesh - Developer
-- [Flamulus](https://twitter.com/Flamulus) - Community Manager
-- Von - NFT Artist
-- Zidiyat - NFT Artist
+
+## Q3 2022
+
+- NFT Portfolio price tracking tools
+- NFT based boom account data - for verification, authentication, transfer and validation
+- New feature voting through staking
+- Verified user badges with NFT staking and lock-up
 
 ## Q2 2022
 
-- Launch Boom Heroes NFT - 15 April
-- Solana News Feeds - curated content and channels
-- NFT Portfolio price tracking tools
-- NFT based account data - for verification, authentication, transfer and validation
-- Verified user badges with NFT staking and lock-up
-- Mint your own NFT Roles for Community Channels
-- User marketplace for NFT buy, sell, swap
+- [x] Launch Boom Heroes NFT - 15 April
+- [x] Solana News Feeds - curated content and channels
+- [x] Mint your own NFT Roles for Community Channels
+- [x] All latest wallets in the Solana Wallet protocol integrated
+- Premium accounts
 - Weekly Solana Report with top news in executive format
 - Email address integration for report delivery
-- All wallets in the Solana Wallet protocol integrated
+- Tickers for NFTs and Token prices
+- Bulk Minting Your Own NFT collection
+- Add push notifications system
+- On platform $BMA swap aggregator
+- Integrate Genesis Go Shadow Drive to NFT Mint
 
 ## Q1 2022
 
@@ -120,3 +123,4 @@ We've targeted 420M tokens to give a good price range on our journey to a fully 
 - Season One Challenge Action Cards Launch (Date TBA)
 - Season One Challenge Leaderboard
 - Meep Ups functionality - IRL events booking system
+- User marketplace for NFT buy, sell, swap

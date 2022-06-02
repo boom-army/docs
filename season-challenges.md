@@ -1,5 +1,7 @@
 # Boom.Army Seasons
 
+NB !! This page is no longer maintained and the latest version can be found at [boom.army/docs](https://boom.army/docs/docs/prologue/season-challenges/).
+
 Boom.Army is going to run Season Challenges, where users will purchase a #BoomHeroes Season Challenge Pass NFT to participate. The Season Challenge Pass will come with several airdropped NFT Action Cards, that are able to be leveled up by completing tasks on the Boom.Army platform.
 
 ## Taxonomy

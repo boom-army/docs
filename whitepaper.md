@@ -1,17 +1,21 @@
 # Boom.army Whitepaper
 
+NB !! This Whitepaper is no longer maintained and the latest version can be found at [boom.army/docs](https://boom.army/docs/docs/prologue/whitepaper/).
+
 A token program with a unique token ($BMA) built on Solana to monetize social engagement.
 
 _NOTE: This document is under development. Please check regularly for updates!_
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Design Principles](#design-principles)
-- [Tokenomics](#tokenomics)
-  - [Content Creator to Content Consumer (pull model)](#content-creator-to-content-consumer-pull-model)
-  - [Content Promoter to Content Consumer (push model)](#content-creator-to-content-consumer-push-model)
-- [Conclusion](#conclusion)
+- [Boom.army Whitepaper](#boomarmy-whitepaper)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Design Principles](#design-principles)
+  - [Tokenomics](#tokenomics)
+    - [Content Creator to Content Consumer (pull model)](#content-creator-to-content-consumer-pull-model)
+    - [Content Promoter to Content Consumer (push model)](#content-promoter-to-content-consumer-push-model)
+  - [Conclusion](#conclusion)
 
 ## Introduction
 

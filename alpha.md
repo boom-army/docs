@@ -1,5 +1,7 @@
 # Boom.Army Alpha
 
+NB !! This page is no longer maintained and the latest version can be found at [boom.army/docs](https://boom.army/docs/docs/prologue/introduction/).
+
 Welcome to the 1303, and thanks for your interest in [**boom.army**](http://boom.army).
 
 ## Alpha is live!!!

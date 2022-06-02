@@ -1,5 +1,7 @@
 ## Inspiration
 
+NB !! This page is no longer maintained and the latest version can be found at [boom.army/docs](https://boom.army/docs/docs/prologue/introduction/).
+
 Web2 spawned the Social Media craze. Large centralized organizations have grown out of these social media platforms, where users share their data for free. That data is monetized by these companies, and they've made a boatload of money in the process. The problem for users is that they don't typically see any profit from their valuable data. This is the environment boom.army has an opportunity to disrupt.
 
 [Solana](https://solana.com) allows **boom.army** to shift the landscape of Social Media from a Consumer-to-business (C2B) model, towards a Consumer-to-consumer (C2C) driven model. By signing content with public/private keys, Content Creators are able to post and upload content with provable ownership. This way Content Consumers can engage content for a small fee, and a Solana Program sits in between the two parties to facilitate the terms and fees associated with that engagement.

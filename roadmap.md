@@ -1,6 +1,6 @@
 # Boom.Army Road Map
 
-This document outlines the road map for Boom ($BMA) - A platform designed and built for Creators to connect with their Communities through the power of NFTs on the [Solana](http://www.solana.com) network.
+NB !! This Roadmap is no longer maintained and the latest version can be found at [boom.army/docs](https://boom.army/docs/docs/prologue/roadmap/).
 
 ## Our Vision
 
