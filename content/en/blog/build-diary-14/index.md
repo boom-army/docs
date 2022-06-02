@@ -12,7 +12,9 @@ contributors: ["Harkl"]
 
 ## The state of NFTs and Solana
 
-Add to this the number of [low quality](https://twitter.com/harkl_/status/1531754907212324865) and [knock-off](https://twitter.com/Not_OkayBears) NFT projects that have crowded into the space in the same timeframe, and it makes for a boiling pot of pretty nasty proportions. It's the sort of environment where you get to see the true colors of a community and the report card isn't looking good.
+Add to this the number of [low quality](https://twitter.com/harkl_/status/1531754907212324865) and [knock-off](https://twitter.com/Not_OkayBears) NFT projects that have crowded into the space in the same timeframe, and it makes for a boiling pot of pretty nasty proportions. It's the sort of environment where you get to see the true colors of a community and the report card isn't looking good. Take this tweet I recently posted which somehow got more likes and engagement than most of the web3 Social Media Glass Chewing I've done in the last month alone. It's really a sorry state of affiars.
+
+<img src="poop.png" alt="Poop Tweet" width="400"/>
 
 On top of that the network has been really unstable and has crashed several times. In this instance it's important to realize that Solana Mainnet is still in beta, and when it comes to software development bugs in production is a given. It's how you deal with them that is everything. And according to [@DegenSwings](https://twitter.com/DegenSwings), there's good evidence that Solana is going through a cycle [which other networks have seen before, Bitcoin in 2013 and Ethereum in 2017](https://twitter.com/DegenSwings/status/1532115994348425216?s=20&t=Or6IQeWQ53unArennTRUZQ).
 
