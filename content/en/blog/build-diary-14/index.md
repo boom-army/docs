@@ -71,7 +71,7 @@ We're getting better and better each week, but its immediately apparent we're st
 
 Last but certainly not least.
 
-- Complete rework of profile editor
+- Complete rework of [profile editor](https://app.boom.army/settings/profile)
 - UX overhaul of layout and container
 - 21 news feed content sources added
 
