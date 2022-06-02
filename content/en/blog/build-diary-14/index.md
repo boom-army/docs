@@ -59,7 +59,7 @@ While we're crushing it on the tech delivery side of things, there's still a few
 
 ### Boom Heroes NFT capital raise
 
-We didn't raise as much as we hoped with the Boom Heroes NFT and the whole NFT market place is generally [pretty saturated at the moment](https://www.investing.com/analysis/solanas-nft-market-gets-crowded-6-sellers-for-every-buyer-200625148).
+We didn't raise as much as we hoped with the [Boom Heroes NFT](https://app.boom.army/mint-boom-hero) and the whole NFT market place is generally [pretty saturated at the moment](https://www.investing.com/analysis/solanas-nft-market-gets-crowded-6-sellers-for-every-buyer-200625148).
 
 <img src="crowded.png" alt="Crowded" width="400"/>
 
