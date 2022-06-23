@@ -16,7 +16,7 @@ contributors: ["Harkl"]
 
 You can now search Meeps, Tags and Users on platform as a complete overhaul of the search functionality was delivered. It's fast and functional and was necessary to setup the architecture for our news feed which is essentially a filter on Meeps. The whole database design is pretty good in this regard as everything is a Meep regardless of whether it is threaded or not.
 
-Search includes the ability to share search as the URL bar updates with every search. You can see an example in this in action at https://app.boom.army/explore?type=USERS&term=sol and it's open to all without the need to connect your wallet and create an account.
+Search includes the ability to share search as the URL bar updates with every search. You can [see an example in this in action here](https://app.boom.army/explore?type=USERS&term=sol), and it's open to all without the need to connect your wallet and create an account.
 
 ## Solana news feed
 
