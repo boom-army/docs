@@ -5,7 +5,7 @@ lead: "Boom.Army is going to run Season Challenges, where users will purchase a 
 date: 2022-03-18T12:04:48+13:00
 lastmod: 2022-03-18T12:04:48+13:00
 draft: false
-images: []
+images: ["soldier.png"]
 menu:
   docs:
     parent: ""
