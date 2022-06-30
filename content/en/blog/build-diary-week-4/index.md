@@ -7,7 +7,7 @@ lastmod: 2022-03-18T15:29:20+13:00
 draft: false
 weight: 50
 images: ["build-diary-week-4.jpg"]
-contributors: ["Harkl"]
+contributors: ["harkl"]
 ---
 
 [I think this tweet sums up my thoughts on it best](https://twitter.com/harkl_/status/1501824183759605762).

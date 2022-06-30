@@ -7,7 +7,7 @@ lastmod: 2022-06-16T16:06:18+12:00
 draft: false
 weight: 50
 images: ["set-pfp.png"]
-contributors: ["Harkl"]
+contributors: ["harkl"]
 ---
 
 ## NFT PFPs are live

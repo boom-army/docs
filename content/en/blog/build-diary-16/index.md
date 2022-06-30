@@ -7,7 +7,7 @@ lastmod: 2022-06-23T15:57:00+12:00
 draft: false
 weight: 50
 images: ["news-full.png"]
-contributors: ["Harkl"]
+contributors: ["harkl"]
 ---
 
 ## Search functionality

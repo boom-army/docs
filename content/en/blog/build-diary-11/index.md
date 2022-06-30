@@ -8,7 +8,7 @@ lastmod: 2022-05-10T15:36:06+13:00
 draft: false
 weight: 50
 images: ["monty.png"]
-contributors: ["Harkl"]
+contributors: ["harkl"]
 ---
 
 I'm currently working on the MP build with another dev and in the downtime between code reviews I've also been able to deliver

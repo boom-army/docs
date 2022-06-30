@@ -7,7 +7,7 @@ lastmod: 2022-04-11T15:36:06+13:00
 draft: false
 weight: 50
 images: ["content-marketing.jpg"]
-contributors: ["Harkl"]
+contributors: ["harkl"]
 ---
 
 Boom now has all the building blocks in place that will under-pin our Social Media platform. A lot of the effort that has gone in to date has been building out the "Social" features and now Boom has two types of social engagement constructs:

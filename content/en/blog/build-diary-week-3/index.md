@@ -7,7 +7,7 @@ lastmod: 2022-03-18T15:30:42+13:00
 draft: false
 weight: 50
 images: ["build-diary-week-3.jpg"]
-contributors: ["Harkl"]
+contributors: ["harkl"]
 ---
 
 So without further ado here's what's been completed in week 3:

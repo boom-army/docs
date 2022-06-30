@@ -7,7 +7,7 @@ lastmod: 2022-04-03T15:41:35+13:00
 draft: false
 weight: 50
 images: ["build-diary-week-7.jpg"]
-contributors: ["Harkl"]
+contributors: ["harkl"]
 ---
 
 Today is day 8 for me, and while the overall experience has been pretty much just low energy and mild flu symptoms, I've spent most of the week in bed asleep, eating chicken soup, and dosing up on Vitamins. Hence the late entry for the dev diary and no real updates in terms of dev delivery.

@@ -7,7 +7,7 @@ lastmod: 2022-03-18T15:31:47+13:00
 draft: false
 weight: 50
 images: ["build-diary-week-2.png"]
-contributors: ["Harkl"]
+contributors: ["harkl"]
 ---
 
 Going to keep this short and snappy @everyone so you can get max info for minimum time spent:

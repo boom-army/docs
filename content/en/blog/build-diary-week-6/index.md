@@ -7,7 +7,7 @@ lastmod: 2022-03-23T15:41:35+13:00
 draft: false
 weight: 50
 images: ["build-diary-week-6.jpg"]
-contributors: ["Harkl"]
+contributors: ["harkl"]
 ---
 
 Those features that are built and read to go are:

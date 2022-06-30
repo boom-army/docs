@@ -7,7 +7,7 @@ lastmod: 2022-04-29T15:36:06+13:00
 draft: false
 weight: 50
 images: ["squid-dude.png"]
-contributors: ["Harkl"]
+contributors: ["harkl"]
 ---
 
 It was a bit of a mad rush to hit the April 15 deadline for the [Boom Hero NFT mint](https://app.boom.army/mint-boom-hero), and over a single 14 hour day all the work was completed to build the traits into 4677 images (more on that number later), loaded the Candy Machine, verified all the image files, rebuilt the launch page on [app.boom.army](https://app.boom.army), and launched the project.

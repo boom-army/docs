@@ -7,7 +7,7 @@ lastmod: 2022-05-25T04:40:56+01:00
 draft: false
 weight: 50
 images: ["news.png"]
-contributors: ["Harkl"]
+contributors: ["harkl"]
 ---
 
 This release sees enough updates to warrant a new minor version of the platform, and we're now at v0.6.0. Here's the things Boom has delivered since the last update.

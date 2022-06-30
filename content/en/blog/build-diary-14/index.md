@@ -7,7 +7,7 @@ lastmod: 2022-06-02T10:42:00+12:00
 draft: false
 weight: 50
 images: ["poop.png"]
-contributors: ["Harkl"]
+contributors: ["harkl"]
 ---
 
 ## The state of NFTs and Solana

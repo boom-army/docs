@@ -7,7 +7,7 @@ lastmod: 2022-05-18T11:36:06+13:00
 draft: false
 weight: 50
 images: ["drowxes.png"]
-contributors: ["Harkl"]
+contributors: ["harkl"]
 ---
 
 Here's the things Boom has delivered since the last update.
