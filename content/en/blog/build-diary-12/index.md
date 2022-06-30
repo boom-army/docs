@@ -1,7 +1,7 @@
 ---
 title: "💥 Build diary - 12 💥"
 description: "In this issue - CMv2 upgrade, Rich links delivery, BMA token breakdown, MP update, latest #BoomHeroes customs."
-lead: "While the market has been on fire, I've been quietly getting on with building."
+lead: "In this issue - CMv2 upgrade, Rich links delivery, BMA token breakdown, MP update, latest #BoomHeroes customs."
 date: 2022-05-18T11:36:06+13:00
 lastmod: 2022-05-18T11:36:06+13:00
 draft: false
@@ -9,6 +9,8 @@ weight: 50
 images: ["drowxes.png"]
 contributors: ["harkl"]
 ---
+
+While the market has been on fire, I've been quietly getting on with building.
 
 Here's the things Boom has delivered since the last update.
 

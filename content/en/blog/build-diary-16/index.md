@@ -1,7 +1,7 @@
 ---
 title: "💥Build Diary 16💥"
 description: "In this issue - Search functionality delivered, Solana specific news feeds, Boom Heroes mint complete, Market place listing coming."
-lead: "Two big new features were delivered this week, and the build delivery is picking up as we head into the end of the second quarter of the year."
+lead: "In this issue - Search functionality delivered, Solana specific news feeds, Boom Heroes mint complete, Market place listing coming."
 date: 2022-06-23T15:57:00+12:00
 lastmod: 2022-06-23T15:57:00+12:00
 draft: false
@@ -9,6 +9,8 @@ weight: 50
 images: ["news-full.png"]
 contributors: ["harkl"]
 ---
+
+Two big new features were delivered this week, and the build delivery is picking up as we head into the end of the second quarter of the year.
 
 ## Search functionality
 

@@ -1,8 +1,7 @@
 ---
 title: "💥 Build diary - 11 💥"
 description: "In this issue - Big upgrades Ahoy, Glow & Slope Wallet Integration, 1/1 Boom Heroes."
-lead: "The Market Place build is about 80% complete and in spite of a few road blocks we're making good progress and you can expect
-delivery soon."
+lead: "In this issue - Big upgrades Ahoy, Glow & Slope Wallet Integration, 1/1 Boom Heroes."
 date: 2022-05-10T15:36:06+13:00
 lastmod: 2022-05-10T15:36:06+13:00
 draft: false
@@ -10,6 +9,9 @@ weight: 50
 images: ["monty.png"]
 contributors: ["harkl"]
 ---
+
+The Market Place build is about 80% complete and in spite of a few road blocks we're making good progress and you can expect
+delivery soon.
 
 I'm currently working on the MP build with another dev and in the downtime between code reviews I've also been able to deliver
 some serious upgrades to the platform.

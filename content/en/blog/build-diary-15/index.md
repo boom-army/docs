@@ -1,7 +1,7 @@
 ---
 title: "💥Build Diary 15💥"
 description: "In this issue - PFP NFTs, New site design, News feeds, NFT data improvement."
-lead: "In the last 2 weeks Harkl has been working hard to deliver a bunch of Boom NFT upgrades."
+lead: "In this issue - PFP NFTs, New site design, News feeds, NFT data improvement."
 date: 2022-06-16T16:06:18+12:00
 lastmod: 2022-06-16T16:06:18+12:00
 draft: false
@@ -9,6 +9,8 @@ weight: 50
 images: ["set-pfp.png"]
 contributors: ["harkl"]
 ---
+
+In the last 2 weeks Harkl has been working hard to deliver a bunch of Boom NFT upgrades.
 
 ## NFT PFPs are live
 
