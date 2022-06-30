@@ -54,9 +54,9 @@ We've targeted 420M tokens to give a good price range on our journey to a fully 
 
 ## Q3 2022
 
-- NFT Portfolio price tracking tools
+- Season Challenges
+- 2x partnership season challenge campaigns
 - NFT based boom account data - for verification, authentication, transfer and validation
-- New feature voting through staking
 - Verified user badges with NFT staking and lock-up
 
 ## Q2 2022
@@ -65,12 +65,12 @@ We've targeted 420M tokens to give a good price range on our journey to a fully 
 - [x] Solana News Feeds - curated content and channels
 - [x] Mint your own NFT Roles for Community Channels
 - [x] All latest wallets in the Solana Wallet protocol integrated
+- [x] Add push notifications system
 - Premium accounts
 - Weekly Solana Report with top news in executive format
 - Email address integration for report delivery
 - Tickers for NFTs and Token prices
 - Bulk Minting Your Own NFT collection
-- Add push notifications system
 - On platform $BMA swap aggregator
 - Integrate Genesis Go Shadow Drive to NFT Mint
 
