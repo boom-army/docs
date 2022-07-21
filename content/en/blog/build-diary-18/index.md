@@ -61,7 +61,7 @@ The rest of the functionality I'm building is going into a tools tab. Things lik
 
 <img src="me-boomheroes.png" alt="Boom Heroes on ME" width="400"/>
 
-In line with the pivot the first piece of the puzzle has been delivered. The Heroes Feed now exclusively shows the posts of users who have set their PFP on their profile to an authenticated Boom Heroes hero. If you have a Boom Heroes hero and want to do this go to your profile, click on your Boom hero and when the pop-up loads, select "SET PROFILE PICTURE".
+In line with the pivot the first piece of the puzzle has been delivered. The Heroes Feed now exclusively shows the posts of users who have set their PFP on their profile to an authenticated Boom Heroes hero. If you have a Boom Heroes hero and want to do this go to Profile in the menu, click on your Boom hero and when the pop-up loads, select "SET PROFILE PICTURE".
 
 We've got our first advertising tile from the engine in the Hero feed that links off to Magic Eden. It's very basic for now but a little hint at what's to come.
 
