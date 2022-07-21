@@ -40,8 +40,8 @@ The first is using NFTs as a secure gate to access Telegram like message channel
 
 - A Messaging experience aligned with Telegram or WhatsApp secured by NFTS
 - On-chain DAO voting integrated directly in app via NFT & wallet
-- Staking mechanisms that allow
-- UX focused on Solana centric communication
+- Staking mechanisms that allow lockup and commitment validation
+- UX entirely focused on Solana centric on-chain functionality
 
 ### NFT Messaging updates
 
