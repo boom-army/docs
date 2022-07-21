@@ -2,8 +2,8 @@
 title: "💥Build Diary 18💥"
 description: "In this issue - Boom Heroes on MoonRank, We're Pivoting, NFT Messaging, Boom Heroes & Advertising Engine, Boomer DAO."
 lead: "In this issue - Boom Heroes on MoonRank, We're Pivoting, NFT Messaging, Boom Heroes & Advertising Engine, Boomer DAO."
-date: 2022-01-25T14:40:56+01:00
-lastmod: 2022-01-25T14:40:56+01:00
+date: 2022-07-21T14:40:56+01:00
+lastmod: 2022-07-21T14:40:56+01:00
 draft: false
 weight: 50
 images: ["channelsnft.png"]
