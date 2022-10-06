@@ -25,11 +25,11 @@ There are 1303 NFTs in total in existance, and they will receive a 1303 split sh
 
 ## White List tokens
 
-All White List i3o3...3bos tokens minted at 1.303 SOL discount. All our Community Moderators in Discord had White Lists tokens to give away and they were distributed [in Discord](https://discord.gg/PmCNkDU5jJ).
+All White List i3o3...3bos tokens minted at 1.303 SOL discount. All our Community Moderators in Discord had White List tokens to give away and they were distributed [in Discord](https://discord.gg/PmCNkDU5jJ) to our OG community members.
 
 ## The 1303 token rarities
 
-There are 4 different rarities of 1303 OGs, and they mint at increasing amounts as the time preference runs out:
+There are 4 different rarities of 1303 OGs, and they originally minted at increasing amounts as the time preference ran out:
 
 | Serial       | Rarity     | Original Cost (SOL) |
 | ------------ | ---------- | ------------------- |
@@ -42,10 +42,8 @@ There are 4 different rarities of 1303 OGs, and they mint at increasing amounts 
 
 > NB: All rarity tiers receive the same split share of market place revenue.
 
-## 1303 Road Map 1Q22
+## 1303 Road Map updated (Oct 22)
 
-Based on activity, I'm pretty sure when the switch flips on the 1303 NFT it's going to be a quiet start. We've got a community of 131 OGs now though, which is the foundation of everything we're about to do from here. In my mind it has been wildly successful to date, because all of the people I've been chatting to who have bought an OG are absolute ALPHAS. You are our kings and queens, and I want to make sure you're treated like royalty with everything we're about to deliver. The first thing I want to make sure of, is that the NFT you just bought increases in value and utility. So I'm going to keep the 1303 Ultra Rare NFT untouched until a day or so after our Monday Spotlight on MonkeDAO's twitter space to talk about the 1303 NFT project and what our goals are. We're going to keep spreading the word (and our community has been helping hugely with this on Twitter and Discord 🙏 ), but once a single NFT in one of the tiers hasn't sold for 8 hours, I'm going to mint the remaining OGs in that tier to a [Boom.Army](https:boom.army) account, and then lock them up. I'll then release the next tier of slightly less rare 1303 OGs, and follow the same process waiting 8 hours. I'm predicting we might end up with somewhere between 2-300 individual OGs minted and Boom.Army will hold the remainder of 1303 OG NFTs locked for future use.
+With the inception of the Boom Ones Auction House on us it's finally time for the 1303 to start receiving their royalties. It's been 6 months since we minted this collection which in the big scheme of things isn't that long, but in Solana it's an age. Being a lone founder is full of trade offs, and the fact that this functionality has been delayed longer than intended has been weighing on me. So it's with great pleasure that I can finally say LFG on the beginning of the Market Place! The end game in all this is to enable all users on Boom to have a permissionless way to sell their NFTs directly from their own Profile. And of course every single sale on platform will generate a small fee of which 13.03% of the profit will go to our OGs - #The1303! 
 
-## Final thoughts
-
-This community is going to be legendary. We'll use the locked NFTs we hold to run promotions and campaigns, and I'll set-up a market place where only a few NFTs will be listed at a floor of 10 SOL and 1 Legendary will be listed at 1303 SOL. Once our market place is ready, I'll remove any OGs from ME that are still listed and put them onto Boom's Market Place and ALL our 1303 OG NFT holders will start to see the split share of 20% MP revenue rolling into their wallets.
+❤️ to you all.
