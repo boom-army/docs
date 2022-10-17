@@ -12,7 +12,7 @@ contributors: ["harkl"]
 
 It feels like years since I last wrote a dev diary, but it's only been 10 weeks. The big news and reason for the quiet spot is our CEO Quiet-Salad/Dingo has stepped aside so I've been somewhat distracted while we completed the formalities associated with that.
 
-I'd personally like to take the opportunity to thank Quiet-Salad for his involbvement, hard work and dedication over the last year. We remain firm friends and although this is the close of one chapter, the book is long and who knows what the future holds.
+I'd personally like to take the opportunity to thank Quiet-Salad for his involvement, hard work and dedication over the last year. We remain firm friends and although this is the close of one chapter, the book is long and who knows what the future holds.
 
 The largely positive outcome of that event for the future is it has freed me up to take the project forward alone. I'm as passionate about Solana as ever and I've actually been finding the bear market an excellent environment to connect with like minded people as there's a lot less grifters around. I'm re-energized and ready to get on with the hard mahi of continuing the project and building our community with you all.
 
