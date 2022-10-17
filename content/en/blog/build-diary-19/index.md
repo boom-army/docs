@@ -2,8 +2,8 @@
 title: "💥Build Diary 19💥"
 description: "In this issue - A Big Change, #BoomOnes Auction House, Poor Club Colab, Metrics, Código Cyphex Podcast, Big Brain Buidl."
 lead: "In this issue - A Big Change, #BoomOnes Auction House, Poor Club Colab, Metrics, Código Cyphex Podcast, Big Brain Buidl."
-date: 2022-10-17T14:40:56+01:00
-lastmod: 2022-10-17T14:40:56+01:00
+date: 2022-10-17T14:40:56+13:00
+lastmod: 2022-10-17T14:40:56+13:00
 draft: false
 weight: 50
 images: ["big-brain.png"]
