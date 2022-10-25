@@ -22,6 +22,8 @@ If you zoom out and keep focused on the bigger picture you will realize this is 
 
 <img src="generals.png" alt="Byzantine Generals Problem" width="400"/>
 
+<hr>
+
 > Know the enemy and know yourself; in a hundred battles you will never peril.
 
 - Sun Tzu
