@@ -1,7 +1,7 @@
 ---
 title: "💥Ad praesens tempus💥"
-description: "In times such as this, it's always important to zoom out"
-lead: ""
+description: "In hard times like the bear, it's always important to zoom out and get some perspective."
+lead: "In hard times like the bear, it's always important to zoom out and get some perspective."
 date: 2022-10-26T07:40:56+13:00
 lastmod: 2022-10-26T07:40:56+13:00
 draft: false
