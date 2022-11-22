@@ -10,11 +10,13 @@ images: ["servers.jpeg"]
 contributors: ["harkl"]
 ---
 
-Are you still alive anon? Are you still here? I'm still here and I'm still building [Boom](https://app.boom.army). Nothing has changed for the long term thesis on Solana as far as I'm concerned. It's the fastest production Blockchain Layer 1 at scale, with the best community and developers in crypto period.
+Are you still alive anon? Are you still here? I'm still here and I'm still building [Boom](https://app.boom.army). Nothing has changed for the long term thesis on Solana as far as I'm concerned. It's the fastest production Blockchain Layer 1 at scale, with the best community and developers in crypto period. Boom is committed to continuing delivery indefinitely and will always do so as long as Solana remains the best product in the biz.
+
+So what have I been up to for the last couple of weeks?
 
 ## All your data is now anon
 
-The last couple of weeks have been spent on a major migration. We've moved all of our backend services and data storage to an anonymously hosted VPS via [BitLaunch](https://bitlaunch.io) all paid in Bitcoin. This is important as part of the anti-fragility of [Boom](https://app.boom.army), and although it was a lot of work it's certainly worth it.
+The last couple of weeks have been spent on a major migration. I've moved all of our backend services and data storage to an anonymously hosted VPS via [BitLaunch](https://bitlaunch.io) all paid in Bitcoin. This is important as part of the anti-fragility of [Boom](https://app.boom.army), and although it was a lot of work it's certainly worth it.
 
 ### Decreased costs
 
