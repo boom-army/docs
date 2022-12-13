@@ -14,7 +14,7 @@ Time just absolutely flies in this space. Every time I'm back on the keys bashin
 
 ## FUD in full force
 
-Anyone who's been on CT and (Boom)[https://app.boom.army] will have seen discussion around the absolute shit storm of FUD that is currently being hurled around. The FTX collapse kicked it off, and every few days since then there seems to be a new issue for people to wring their hands over. The Metaplex token program keys, and who should control them; The Toy'R'Us FUD about depressed companies selling out; The Binance SNAFU with liquidity safety; Just to name the most high profile ones.
+Anyone who's been on CT and [Boom](https://app.boom.army) will have seen discussion around the absolute shit storm of FUD that is currently being hurled around. The FTX collapse kicked it off, and every few days since then there seems to be a new issue for people to wring their hands over. The Metaplex token program keys, and who should control them; The Toy'R'Us FUD about depressed companies selling out; The Binance SNAFU with liquidity safety; Just to name the most high profile ones.
 
 It can be exhausting to engage with all this FUD, and as a result we've seen a lot of people leave the space. But over the same time frame we've started to see the remaining community whittle down to the absolute best of the best. I'm super bullish on the remaining people and projects. WAGMI seems a little outdated as a phrase now, but the sentiment still remains. It feels like we need a new catchphrase forged in the depths of the Bear!
 
@@ -22,7 +22,7 @@ There's a great excerpt in The Bible that talks about what success looks like in
 
 "So we’re not giving up. How could we! Even though on the outside it often looks like things are falling apart on us, on the inside, where God is making new life, not a day goes by without his unfolding grace. These hard times are small potatoes compared to the coming good times, the lavish celebration prepared for us. There’s far more here than meets the eye. The things we see now are here today, gone tomorrow. But the things we can’t see now will last forever."
 
-(2 Cor 4)[https://www.biblegateway.com/passage/?search=2%20Corinthians%204%3A17-18&version=MSG]
+[2 Cor 4](https://www.biblegateway.com/passage/?search=2%20Corinthians%204%3A17-18&version=MSG)
 
 My experience of God leading me through "hard times" and being right beside me through-out has prepared me well for the Bear. Every day I feel his grace and provision - it's a familiar pattern, and I know that he's blessing everything I'm involved with. Even though it may not turn out as I expect, it's always much better than I can imagine.
 
@@ -36,7 +36,7 @@ IMHO all of this is necessary and important on the path to anti-fragility for a 
 
 ## Delivery diary
 
-There's been a tonne of delivery over the last couple of weeks on (Boom)[https://app.boom.army].
+There's been a tonne of delivery over the last couple of weeks on [Boom](https://app.boom.army).
 
 <img src="gm.png" alt="Threaded comments on Boom" width="400"/>
 
