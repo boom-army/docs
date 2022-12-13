@@ -42,7 +42,7 @@ There's been a tonne of delivery over the last couple of weeks on [Boom](https:/
 
 <hr>
 
-Gig changes to the app include:
+Big changes to the app include:
 
 - Quicknode RPC implemented
 - Threaded comments UX upgraded
