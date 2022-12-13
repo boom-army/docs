@@ -46,7 +46,7 @@ Big changes to the app include:
 
 - Quicknode RPC implemented
 - Threaded comments UX upgraded
-- Verified profiles using [BoomHeroes](https://www.tensor.trade/trade/boomheroes)
+- Verified profiles using [BoomHeroes NFT](https://www.tensor.trade/trade/boomheroes)
 - Improved profile metadata
 - NFT profile PFP improvements
 - Fetch for 'n' new meeps
