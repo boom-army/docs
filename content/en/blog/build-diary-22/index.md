@@ -28,7 +28,7 @@ My experience of God leading me through "hard times" and being right beside me t
 
 ### TLDR;
 
-<img src="nakamoto.jpeg" alt="Solana Nakamoto Co-efficient" width="400"/>
+<img src="naka2.jpeg" alt="Solana Nakamoto Co-efficient" width="400"/>
 
 IMHO all of this is necessary and important on the path to anti-fragility for a truly decentralized Solana blockchain. It's hard to see it now, but long term it's going to be a net positive.
 
