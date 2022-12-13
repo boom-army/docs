@@ -53,4 +53,4 @@ The lift and shift of the database to anonymously hosted, Bitcoin paid servers t
 
 <img src="db.png" alt="DB metrics" width="400"/>
 
-Until we meet IRL - [harkl_](https://app.boom.army/harkl)
+Until we meet IRL - [harkl](https://app.boom.army/harkl)
