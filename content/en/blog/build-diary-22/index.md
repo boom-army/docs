@@ -30,13 +30,19 @@ My experience of God leading me through "hard times" and being right beside me t
 
 <img src="naka2.jpeg" alt="Solana Nakamoto Co-efficient" width="400"/>
 
+<hr>
+
 IMHO all of this is necessary and important on the path to anti-fragility for a truly decentralized Solana blockchain. It's hard to see it now, but long term it's going to be a net positive.
 
 ## Delivery diary
 
-There's been a tonne of delivery over the last couple of weeks on (Boom)[https://app.boom.army], with some big changes to the app including:
+There's been a tonne of delivery over the last couple of weeks on (Boom)[https://app.boom.army].
 
 <img src="gm.png" alt="Threaded comments on Boom" width="400"/>
+
+<hr>
+
+Gig changes to the app include:
 
 - Quicknode RPC implemented
 - Threaded comments UX upgraded
@@ -52,5 +58,7 @@ There's been a tonne of delivery over the last couple of weeks on (Boom)[https:/
 The lift and shift of the database to anonymously hosted, Bitcoin paid servers that was completed last month has been a HUGE success. We're not constrained by the Amazon RDS "premium" features like IOPS and disk speed any more, and have been seeing some really good metrics coming though on the monitor. It's a big step forward and is going to ensure stability and scale, with leaner costs up until about 500k users.
 
 <img src="db.png" alt="DB metrics" width="400"/>
+
+<hr>
 
 Until we meet IRL - [harkl](https://app.boom.army/harkl)
