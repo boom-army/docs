@@ -18,9 +18,9 @@ Anyone who's been on CT and [Boom](https://app.boom.army) will have seen discuss
 
 It can be exhausting to engage with all this FUD, and as a result we've seen a lot of people leave the space. But over the same time frame we've started to see the remaining community whittle down to the absolute best of the best. I'm super bullish on the remaining people and projects. WAGMI seems a little outdated as a phrase now, but the sentiment still remains. It feels like we need a new catchphrase forged in the depths of the Bear!
 
-There's a great excerpt in The Bible that talks about what success looks like in hard times like this, and although the passage relates directly to eternity and being with God who is the ultimate prize, it's good encouragement for crypto also:
+There's a great excerpt in The Bible that talks about what success looks like in hard times like this, and although the passage relates directly to eternity and being with Jesus who is the ultimate prize, it's good encouragement for crypto also:
 
-"So we’re not giving up. How could we! Even though on the outside it often looks like things are falling apart on us, on the inside, where God is making new life, not a day goes by without his unfolding grace. These hard times are small potatoes compared to the coming good times, the lavish celebration prepared for us. There’s far more here than meets the eye. The things we see now are here today, gone tomorrow. But the things we can’t see now will last forever."
+> "So we’re not giving up. How could we! Even though on the outside it often looks like things are falling apart on us, on the inside, where God is making new life, not a day goes by without his unfolding grace. These hard times are small potatoes compared to the coming good times, the lavish celebration prepared for us. There’s far more here than meets the eye. The things we see now are here today, gone tomorrow. But the things we can’t see now will last forever."
 
 [2 Cor 4](https://www.biblegateway.com/passage/?search=2%20Corinthians%204%3A17-18&version=MSG)
 
