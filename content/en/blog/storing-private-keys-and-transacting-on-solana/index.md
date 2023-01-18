@@ -1,5 +1,5 @@
 ---
-title: "A secure approach to storing private keys and transacting in Solana"
+title: "A Secure Approach to Storing Private Keys and Transacting in Solana"
 description: "Listen up, freaks. When it comes to cryptocurrency, security is of the utmost importance. Not only is your financial well-being at stake, but also the security of the entire network."
 lead: "Listen up, freaks. When it comes to cryptocurrency, security is of the utmost importance. Not only is your financial well-being at stake, but also the security of the entire network."
 date: 2023-01-18T14:12:51+13:00
@@ -7,7 +7,7 @@ lastmod: 2023-01-18T14:12:51+13:00
 draft: false
 weight: 50
 images: ["tree-key.png"]
-contributors: []
+contributors: ["harkl"]
 ---
 
 And let me tell you, the crypto game is not for the faint of heart. In this blog post, we will explore a few different ways to ensure that your Solana transactions and storage are as secure as possible, because in this wild west of digital assets, you can't be too careful.
