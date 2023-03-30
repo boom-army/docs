@@ -10,7 +10,29 @@ images: ["What.png"]
 contributors: ["harkl"]
 ---
 
+## What I've been up to since Jan
+
+Since January, I've been keeping myself busy with various projects and collaborations, contributing to the blockchain and technology space in different ways. Here's a quick rundown of what I've been working on:
+
+- **CAW Studios:** I had the opportunity to work with [CAW Studios](https://twitter.com/CAW_studio) for two months, during which I collaborated on several projects and had the pleasure of working with a first class team with huge ambition. Don't sleepo on these guys, they're first class and super well connected.
+- **Open Source Solana starter for Material UI:** I developed an [open-source Solana starter kit that integrates Material UI](https://github.com/h4rkl/solana-mui-dapp-scaffold), a popular React UI framework. This starter kit aims to help developers quickly set up and build Solana projects with a sleek, user-friendly interface.
+- **Lead generation tool with a network chart of Twitter users:** I built a lead generation tool that utilizes a network chart to visualize connections between Twitter users. This innovative tool can help businesses and individuals identify potential leads and expand their networks in a data-driven way.
+
+## Back onto Boom!
+
 Over the past two weeks, I've been working tirelessly to rebuild large parts of [Boom](https://app.boom.army), a blockchain-based social media app. With significant improvements to the platform and an upcoming on-chain AI-based dungeon crawl called WhatIsGorgon, there's a lot to be excited about. Let's dive into the details.
+
+## Complete retooling of the Boom client and backend
+
+In an effort to improve the overall performance and maintainability of the Boom platform, I've completely retooled both the client and backend with the following updates:
+
+- **Migrated React build to Vite:** By migrating the React build to Vite, I've significantly improved the development experience, with faster builds and better optimization for production.
+- **Rebuilt the backend for Apollo-server v3:** I upgraded the backend to use Apollo Server v3, which offers enhanced security, performance improvements, and better support for GraphQL subscriptions.
+- **Solved all CORS errors:** By addressing all CORS errors, I've ensured a more seamless integration between the frontend and backend, eliminating potential issues for developers and users.
+- **Integrated Express into the backend:** The integration of Express into the backend allows for better handling of HTTP requests and provides greater flexibility in terms of routing and middleware.
+- **Updated all packages to the latest versions:** To ensure the platform stays up-to-date and benefits from the latest features and bug fixes, I've updated all packages to their latest versions across both the frontend and backend.
+
+These changes have led to a more robust and efficient Boom platform, providing users with a smoother experience and developers with a more reliable foundation for future updates and enhancements.
 
 ## The Boom post format has been rebuilt
 
