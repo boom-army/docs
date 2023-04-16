@@ -38,4 +38,4 @@ TLDR: cheap credit is not coming back, and MANY have over-extended themselves.
 
 So what is the antidote? It's the same as it's always been. God, Family, and Community. There is no substitute for these three things and everything flows out of them. This is the ideology that I'm building Boom with. The HOW is a much more nuanced conversation because it's a winding path with multiple ingress and egress points. But we are all still early, and the best is yet to come in spite of the worst.
 
-Until we meet IRL - [harkl_](https://app.boom.army/harkl)
+Until we meet IRL - [harkl_](https://boom.army/harkl)

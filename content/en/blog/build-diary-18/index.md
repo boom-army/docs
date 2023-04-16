@@ -45,7 +45,7 @@ The first is using NFTs as a secure gate to access Telegram like message channel
 
 ### NFT Messaging updates
 
-The NFT Channel functionality has been updated as I start to deliver on the ideas mentioned above. If you visit the [Channels page](https://app.boom.army/channels) you'll notice that while the functionality looks similar there have been a whole bunch of updates that now load channels to your profile by default. This gives you the ability to see how many other users are in channels and then directly join them to chat securely with your NFT as the  security token. There's nothing else like it that exists anywhere in the ecosystem currently.
+The NFT Channel functionality has been updated as I start to deliver on the ideas mentioned above. If you visit the [Channels page](https://boom.army/channels) you'll notice that while the functionality looks similar there have been a whole bunch of updates that now load channels to your profile by default. This gives you the ability to see how many other users are in channels and then directly join them to chat securely with your NFT as the  security token. There's nothing else like it that exists anywhere in the ecosystem currently.
 
 ## Boom Heroes Promotions (Advertising Engine)
 
@@ -71,4 +71,4 @@ You can pick up your own Boom heroes hero from [Magic Eden](https://magiceden.io
 
 This week I had the opportunity to chat with the folks from [Boomer DAO](https://twitter.com/TheBoomerDAO) and [Based](https://twitter.com/Getbased) (another Solana Social platform). [Check out the conversation here](https://twitter.com/i/spaces/1lPKqmBqOrMKb?s=20) - I ask the first question at 1h:03m and there's some good discussion around Social Media and the blockchain from there.
 
-Until we meet IRL - [harkl_](https://app.boom.army/harkl)
+Until we meet IRL - [harkl_](https://boom.army/harkl)

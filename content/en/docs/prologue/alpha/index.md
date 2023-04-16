@@ -16,7 +16,7 @@ toc: true
 
 ## Alpha is live!!!
 
-TLDR; - Head over to [app.boom.army](http://app.boom.army) and you'll be able to login using the wallet specified when you registered.
+TLDR; - Head over to [boom.army](http://boom.army) and you'll be able to login using the wallet specified when you registered.
 
 **NB**
 
@@ -35,7 +35,7 @@ TLDR; - Head over to [app.boom.army](http://app.boom.army) and you'll be able to
 2. Click "Logout"
 ## What to expect
 
-Alpha is in the [earliest stage](https://en.wikipedia.org/wiki/Software_release_life_cycle) of the software release cycle. Many of the packages we're using in the code base are only partly formed. This is how early you are! Expect features to be generally a bit lack-lustre, and in the odd instance to be broken. If you do find something that isn't working, or have a suggestion, then please jump on **boom.army** and let [@harkl\_](https://app.boom.army/harkl) know. Alternately, if you're a little bit familiar with github then please do log an issue right in the [client repo](https://github.com/boom-army/boom-client/issues).
+Alpha is in the [earliest stage](https://en.wikipedia.org/wiki/Software_release_life_cycle) of the software release cycle. Many of the packages we're using in the code base are only partly formed. This is how early you are! Expect features to be generally a bit lack-lustre, and in the odd instance to be broken. If you do find something that isn't working, or have a suggestion, then please jump on **boom.army** and let [@harkl\_](https://boom.army/harkl) know. Alternately, if you're a little bit familiar with github then please do log an issue right in the [client repo](https://github.com/boom-army/boom-client/issues).
 
 Just remember Twitter has built their platform over 15 years, while **boom.army** has been in development for just 4 short months so far. Please go easy on us. As we build up the team, and start getting a road-map together things will get better and better. And because we're monetized from the start, I have no doubt the token will reflect how well the product is doing at each stage.
 
@@ -87,8 +87,8 @@ As we've been very vocal about, the future of **boom.army** is on the decentrali
 
 - Any issues can bed logged for dev here - [github.com/boom-army/boom-client](https://github.com/boom-army/boom-client/issues)
 - We'll be seeking feedback in a more general format once Alpha is well on it's way
-- You can contact [@harkl](https://app.boom.army/harkl) directly on [app.boom.army](http://app.boom.army).
+- You can contact [@harkl](https://boom.army/harkl) directly on [boom.army](http://boom.army).
 
 ## If you need anything
 
-As you're well aware by now everything is bootstrapped, so if something seems off get in touch with [@harkl\_](https://app.boom.army/harkl) via **boom.army**. The ultimate goal of BMA for the 1303 is to reward you all handsomely, and listen to your feedback to build the best Web3 Social product in the space. LFG!
+As you're well aware by now everything is bootstrapped, so if something seems off get in touch with [@harkl\_](https://boom.army/harkl) via **boom.army**. The ultimate goal of BMA for the 1303 is to reward you all handsomely, and listen to your feedback to build the best Web3 Social product in the space. LFG!

@@ -14,7 +14,7 @@ How to unpack a failed launch? Currently launching an auction house on Solana is
 
 ## How did we get here?
 
-Back in February, Boom launched an NFT called [The 1303 OG](https://boom.army/docs/docs/prologue/1303/). It was delivered on the back of a registration form where 1303 Solana Wallets signed up to be the first testooors on [app.boom.army](https://app.boom.army), Solana's first Web3 Social Network. Part of the advertised perks for holding that NFT was to profit share revenue from Peer 2 Peer sales on the [Boom App platform](https://app.boom.army), as it was apparent there was an opportunity in the future to build a market place where people could permissionlessly buy and sell from each other. 
+Back in February, Boom launched an NFT called [The 1303 OG](https://boom.army/docs/docs/prologue/1303/). It was delivered on the back of a registration form where 1303 Solana Wallets signed up to be the first testooors on [boom.army](https://boom.army), Solana's first Web3 Social Network. Part of the advertised perks for holding that NFT was to profit share revenue from Peer 2 Peer sales on the [Boom App platform](https://boom.army), as it was apparent there was an opportunity in the future to build a market place where people could permissionlessly buy and sell from each other. 
 
 ### The Metaplex Standard
 
@@ -48,4 +48,4 @@ The best discovery from the RPC hunt I made, is that [Monke DAO run an RPC valid
 
 So where does that leave the BoomOnes Auction house? The next thing to do is to finish the Metaplex CLI which will mean I can run and test my Auction House program on devnet. From there I'll be integrating the program into the existing Boom App UX and we'll be launching again. I'm hoping this won't take much longer than a few days, and certainly not more than a week. But I'll keep everyone posted with updates on Boom, Twitter and Discord as per usual.
 
-Until we meet IRL - [harkl_](https://app.boom.army/harkl)
+Until we meet IRL - [harkl_](https://boom.army/harkl)

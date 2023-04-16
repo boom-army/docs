@@ -57,7 +57,7 @@ There will be 4 NFT action cards in Season Challenge 1. Three of the cards will 
 
 Sadar Wa is a card that recognizes the number of meeps a person makes.
 
-Sadar Wa is a mystic/seer type character with great wisdom. Sadarwa means &quot;communicate&quot; in the Hausa language used predominantly in Nigeria. To level up the card during the Season Challenge the holder must post the following number of Meeps on [app.boom.army](https://app.boom.army) to reach the corresponding level.
+Sadar Wa is a mystic/seer type character with great wisdom. Sadarwa means &quot;communicate&quot; in the Hausa language used predominantly in Nigeria. To level up the card during the Season Challenge the holder must post the following number of Meeps on [boom.army](https://boom.army) to reach the corresponding level.
 
 _Legendary: 100 Meeps_
 
@@ -71,7 +71,7 @@ _Limit: 1 per account_
 
 ![Discus Max NFT Regular Action Card](DiscusMaxDone.jpg "Discus Max NFT Regular Action Card")
 
-Discus Max is a card that recognizes an achievement on the number of comments a person makes. To level up the card during the Season Challenge the holder must comment on posts with the following number of comments on [app.boom.army](https://app.boom.army) to reach the corresponding level.
+Discus Max is a card that recognizes an achievement on the number of comments a person makes. To level up the card during the Season Challenge the holder must comment on posts with the following number of comments on [boom.army](https://boom.army) to reach the corresponding level.
 
 _Legendary: 250 Comments_
 
@@ -85,7 +85,7 @@ _Limit: 1 per account_
 
 ![Badgemon NFT Regular Action Card](BadgemonDone.jpg "Badgemon NFT Regular Action Card")
 
-Badgemon is a card that recognizes an achievement for the number of emojis a person reacts to meeps with. To level up the card during the Season Challenge the holder must react with the following amounts of emojis on Meeps at [app.boom.army](https://app.boom.army) to reach the corresponding level.
+Badgemon is a card that recognizes an achievement for the number of emojis a person reacts to meeps with. To level up the card during the Season Challenge the holder must react with the following amounts of emojis on Meeps at [boom.army](https://boom.army) to reach the corresponding level.
 
 _Legendary: 350 Emojis_
 
@@ -101,7 +101,7 @@ _Limit: 1 per account_
 
 ![El Brazos NFT Regular Action Card](TheDistributorRevised.jpg "El Brazos NFT Regular Action Card")
 
-El Brazos is a card that comes with 100 $BMA and recognizes an achievement for the number of tips a person adds to meeps. To level up the card during the Season Challenge the holder must distribute the following amounts of $BMA through tipping on [app.boom.army](https://app.boom.army) to reach the corresponding level.
+El Brazos is a card that comes with 100 $BMA and recognizes an achievement for the number of tips a person adds to meeps. To level up the card during the Season Challenge the holder must distribute the following amounts of $BMA through tipping on [boom.army](https://boom.army) to reach the corresponding level.
 
 _Cost: 0.5 SOL_
 

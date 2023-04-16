@@ -14,7 +14,7 @@ Time just absolutely flies in this space. Every time I'm back on the keys bashin
 
 ## FUD in full force
 
-Anyone who's been on CT and [Boom](https://app.boom.army) will have seen discussion around the absolute shit storm of FUD that is currently being hurled around. The FTX collapse kicked it off, and every few days since then there seems to be a new issue for people to wring their hands over. The Metaplex token program keys, and who should control them; The Toy'R'Us FUD about depressed companies selling out; The Binance SNAFU with liquidity safety; Just to name the most high profile ones.
+Anyone who's been on CT and [Boom](https://boom.army) will have seen discussion around the absolute shit storm of FUD that is currently being hurled around. The FTX collapse kicked it off, and every few days since then there seems to be a new issue for people to wring their hands over. The Metaplex token program keys, and who should control them; The Toy'R'Us FUD about depressed companies selling out; The Binance SNAFU with liquidity safety; Just to name the most high profile ones.
 
 It can be exhausting to engage with all this FUD, and as a result we've seen a lot of people leave the space. But over the same time frame we've started to see the remaining community whittle down to the absolute best of the best. I'm super bullish on the remaining people and projects. WAGMI seems a little outdated as a phrase now, but the sentiment still remains. It feels like we need a new catchphrase forged in the depths of the Bear!
 
@@ -36,7 +36,7 @@ IMHO all of this is necessary and important on the path to anti-fragility for a 
 
 ## Delivery diary
 
-There's been a tonne of delivery over the last couple of weeks on [Boom](https://app.boom.army).
+There's been a tonne of delivery over the last couple of weeks on [Boom](https://boom.army).
 
 <img src="gm.png" alt="Threaded comments on Boom" width="400"/>
 
@@ -61,4 +61,4 @@ The lift and shift of the database to anonymously hosted, Bitcoin paid servers t
 
 <hr>
 
-Until we meet IRL - [harkl](https://app.boom.army/harkl)
+Until we meet IRL - [harkl](https://boom.army/harkl)

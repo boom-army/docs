@@ -20,7 +20,7 @@ The Candy Machine from Metaplex received some heavy upgrades (many with breaking
 
 ### Added rich links to posts
 
-An essential feature for sharing content pulling the Metadata from links is really important to meet the expectations of any standard web based social experience. This now work for pasted links on [Boom Army](https://app.boom.army), and the next thing to do is to serve Metadata from the server for pasted links from Boom Army on other sites. Paste a link into a post and try it out.
+An essential feature for sharing content pulling the Metadata from links is really important to meet the expectations of any standard web based social experience. This now work for pasted links on [Boom Army](https://boom.army), and the next thing to do is to serve Metadata from the server for pasted links from Boom Army on other sites. Paste a link into a post and try it out.
 
 ## BMA token
 

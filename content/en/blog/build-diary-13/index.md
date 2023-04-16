@@ -16,9 +16,9 @@ This release sees enough updates to warrant a new minor version of the platform,
 
 ## News feeds are LIVE!
 
-How hard is it to keep up with what's going in the Solana space? Really bloody hard given that a week seems like a year. But not to worry, we've got your back fam. We've been scouring the web for the best Solana content and news and now you can see it right in the global feed without having to even leave [Boom Army](https://app.boom.army). Just one of the many benefits of being a Social First platform built right on the Solana Blockchain. We've launched with 5 news sources and over the next few weeks we'll keep adding them so you never miss-out on the latest Alpha.
+How hard is it to keep up with what's going in the Solana space? Really bloody hard given that a week seems like a year. But not to worry, we've got your back fam. We've been scouring the web for the best Solana content and news and now you can see it right in the global feed without having to even leave [Boom Army](https://boom.army). Just one of the many benefits of being a Social First platform built right on the Solana Blockchain. We've launched with 5 news sources and over the next few weeks we'll keep adding them so you never miss-out on the latest Alpha.
 
-I'm especially looking forward to building out a Spanish language specific news feed for our very own [@Drowxes](https://app.boom.army/Drowxes) who runs the awesome [Codigo Cyphex](https://codigocyphex.com/) blog. We :heart: you bro.
+I'm especially looking forward to building out a Spanish language specific news feed for our very own [@Drowxes](https://boom.army/Drowxes) who runs the awesome [Codigo Cyphex](https://codigocyphex.com/) blog. We :heart: you bro.
 
 ## UX update
 
@@ -28,7 +28,7 @@ I've made some big updates to the UX and improved the user experience. A lot of 
 
 ## Video Embeds
 
-You can now view videos from all platforms right in the [Boom Army](https://app.boom.army) feed. Here's one [posted a few days ago](https://app.boom.army/bergfalk/status/cl3chbym8694501msfickuqao) by our very own [@bergfalk](https://app.boom.army/bergfalk).
+You can now view videos from all platforms right in the [Boom Army](https://boom.army) feed. Here's one [posted a few days ago](https://boom.army/bergfalk/status/cl3chbym8694501msfickuqao) by our very own [@bergfalk](https://boom.army/bergfalk).
 
 Head on over to the app and post your favourite video link in a post with a bit of commentary. I'll tip my favourites over the next few days.
 
@@ -48,28 +48,28 @@ The existing functionality with replys, auto-updates of the feed and in-app noti
 
 ## Public profiles
 
-All profiles can now be viewed without having to connect a wallet to [Boom Army](https://app.boom.army). Now you can show off your NFTs to anyone and everyone by simply pasting the link to your profile up for them. At some stage we'll also give people the ability to toggle this feature on and off but for now, just like the blockchain it's all open and transparent baby!
+All profiles can now be viewed without having to connect a wallet to [Boom Army](https://boom.army). Now you can show off your NFTs to anyone and everyone by simply pasting the link to your profile up for them. At some stage we'll also give people the ability to toggle this feature on and off but for now, just like the blockchain it's all open and transparent baby!
 
 ## Custom 1/1s
 
-[@Flamulus](https://app.boom.army/flamulus) has created some more awesome 1/1s and they aren't minted yet, but it won't be long until they're sent out to a couple of our faithful fans:
+[@Flamulus](https://boom.army/flamulus) has created some more awesome 1/1s and they aren't minted yet, but it won't be long until they're sent out to a couple of our faithful fans:
 
 ### Captain Moona-boom
 
 <img src="captainboom.png" alt="Captain Moona-boom" width="400"/>
 
-[Moona-boom](https://app.boom.army/Moona-boom)
+[Moona-boom](https://boom.army/Moona-boom)
 
 ### Hitman
 
 <img src="hitman.png" alt="Hitman" width="400"/>
 
-[Hitman](https://app.boom.army/hitman)
+[Hitman](https://boom.army/hitman)
 
 ### Nacho
 
 <img src="nachoroyalblue.png" alt="Nacho" width="400"/>
 
-[Nacho](https://app.boom.army/Nacho)
+[Nacho](https://boom.army/Nacho)
 
 Until we meet IRL - [harkl_](https://twitter.com/harkl_)

@@ -20,7 +20,7 @@ Since January, I've been keeping myself busy with various projects and collabora
 
 ## Back onto Boom!
 
-Over the past two weeks, I've been working tirelessly to rebuild large parts of [Boom](https://app.boom.army), a blockchain-based social media app. With significant improvements to the platform and an upcoming on-chain AI-based dungeon crawl called WhatIsGorgon, there's a lot to be excited about. Let's dive into the details.
+Over the past two weeks, I've been working tirelessly to rebuild large parts of [Boom](https://boom.army), a blockchain-based social media app. With significant improvements to the platform and an upcoming on-chain AI-based dungeon crawl called WhatIsGorgon, there's a lot to be excited about. Let's dive into the details.
 
 ## Complete retooling of the Boom client and backend
 
@@ -62,4 +62,4 @@ The recent improvements to the Boom platform and the upcoming release of WhatIsG
 
 <hr>
 
-Until we meet IRL - [harkl](https://app.boom.army/harkl)
+Until we meet IRL - [harkl](https://boom.army/harkl)

@@ -13,7 +13,7 @@ weight: 300
 toc: true
 ---
 
-There are 1303 NFTs in total in existance, and they will receive a 1303 split share of 13.03% of our Market Place fee profits in perpetuity. They were minted on [app.boom.army](https://app.boom.army) during the month of February 2022.
+There are 1303 NFTs in total in existance, and they will receive a 1303 split share of 13.03% of our Market Place fee profits in perpetuity. They were minted on [boom.army](https://boom.army) during the month of February 2022.
 
 ![Boom mint](boom-mint.png)
 

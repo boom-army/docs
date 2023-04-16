@@ -30,14 +30,14 @@ Notifications are currently enabled for:
 - When someone tips your Meep
 - When someone adds a reaction to your Meep
 
-This should increase the stickiness of the platform a lot. It's been one of the big missing features for quite a while. Already I've noticed the improvement when [@krishna](https://app.boom.army/krishna) messaged me and I was able to respond to him within 1 minute of the post being sent 💥. 
+This should increase the stickiness of the platform a lot. It's been one of the big missing features for quite a while. Already I've noticed the improvement when [@krishna](https://boom.army/krishna) messaged me and I was able to respond to him within 1 minute of the post being sent 💥. 
 
 ## Collabs
 
 [Boom](https://boom.army) are actively seeking collabs at the moment to try out the Season Challenge structure. The basic idea behind a collab will be to:
 
 - Create a unique upgradable n/n NFT with a limited supply
-- Run a challenge on [app.boom.army](https://app.boom.army) for a limited time
+- Run a challenge on [boom.army](https://boom.army) for a limited time
 - Have a leaderboard for the challenge
 - Award prizes accordingly
 
@@ -47,4 +47,4 @@ We've got a couple of teams we're talking to at the moment, and I'm really looki
 
 If you're new and want to find out about all things Boom including reading the Whitepaper and Roadmap then check out our [linktree](https://linktr.ee/boom_army).
 
-Until we meet IRL - [harkl_](https://app.boom.army/harkl)
+Until we meet IRL - [harkl_](https://boom.army/harkl)

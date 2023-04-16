@@ -18,7 +18,7 @@ Use the left hand menu to navigate through the Boom.Army docs.
 
 ### Boom.Army app
 
-The app is live at [app.boom.army](https://app.boom.army).
+The app is live at [boom.army](https://boom.army).
 
 ### Boom.Army brochure site
 

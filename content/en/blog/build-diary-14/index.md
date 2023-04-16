@@ -60,7 +60,7 @@ While we're crushing it on the tech delivery side of things, there's still a few
 
 ### Boom Heroes NFT capital raise
 
-We didn't raise as much as we hoped with the [Boom Heroes NFT](https://app.boom.army/mint-boom-hero) and the whole NFT market place is generally [pretty saturated at the moment](https://www.investing.com/analysis/solanas-nft-market-gets-crowded-6-sellers-for-every-buyer-200625148).
+We didn't raise as much as we hoped with the [Boom Heroes NFT](https://boom.army/mint-boom-hero) and the whole NFT market place is generally [pretty saturated at the moment](https://www.investing.com/analysis/solanas-nft-market-gets-crowded-6-sellers-for-every-buyer-200625148).
 
 <img src="crowded.png" alt="Crowded" width="400"/>
 
@@ -72,7 +72,7 @@ We're getting better and better each week, but its immediately apparent we're st
 
 Last but certainly not least.
 
-- Complete rework of [profile editor](https://app.boom.army/settings/profile)
+- Complete rework of [profile editor](https://boom.army/settings/profile)
 - UX overhaul of layout and container
 - 21 news feed content sources added
 
