@@ -14,7 +14,7 @@ How to unpack a failed launch? Currently launching an auction house on Solana is
 
 ## How did we get here?
 
-Back in February, Boom launched an NFT called [The 1303 OG](https://boom.army/docs/docs/prologue/1303/). It was delivered on the back of a registration form where 1303 Solana Wallets signed up to be the first testooors on [boom.army](https://boom.army), Solana's first Web3 Social Network. Part of the advertised perks for holding that NFT was to profit share revenue from Peer 2 Peer sales on the [Boom App platform](https://boom.army), as it was apparent there was an opportunity in the future to build a market place where people could permissionlessly buy and sell from each other. 
+Back in February, Boom launched an NFT called [The 1303 OG](https://docs.boom.armydocs/prologue/1303/). It was delivered on the back of a registration form where 1303 Solana Wallets signed up to be the first testooors on [boom.army](https://boom.army), Solana's first Web3 Social Network. Part of the advertised perks for holding that NFT was to profit share revenue from Peer 2 Peer sales on the [Boom App platform](https://boom.army), as it was apparent there was an opportunity in the future to build a market place where people could permissionlessly buy and sell from each other. 
 
 ### The Metaplex Standard
 

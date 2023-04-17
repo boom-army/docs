@@ -38,7 +38,7 @@ A large part of the drive behind Profile based Auction Listings on Boom Army is 
 
 ### #The1303 are finally going to get paid
 
-For a good 6 months now I've been talking about [#The1303 NFT and profit sharing 13.03% of the marketplace proceeds](https://boom.army/docs/docs/prologue/1303/) with the holders. With the advent of #BoomOnes this is finally happening and I can't state enough how stoked I am to finally deliver on this. ❤️
+For a good 6 months now I've been talking about [#The1303 NFT and profit sharing 13.03% of the marketplace proceeds](https://docs.boom.armydocs/prologue/1303/) with the holders. With the advent of #BoomOnes this is finally happening and I can't state enough how stoked I am to finally deliver on this. ❤️
 
 ## The Poor Club X Boom Army
 

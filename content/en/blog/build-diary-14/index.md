@@ -27,7 +27,7 @@ Whatever the case, I'm still bullish on Solana, NFTs, and the community who are 
 
 I'm pressing the pause button on the Market Place (MP) even though it's 95% complete. Over the last week I've taken time out to think about where Boom is headed, what features we're delivering and the whole MP delivery hasn't been sitting right with me. I've come to the conclusion that we're running the risk of bolting on another new feature that really isn't solving any demand problem. And at the same time our existing functionality is being neglected rather than improved. I think Boom is much better placed to massively upgrade the functionality we have already and so I'm going to down tools on the MP and pour all my efforts into the existing infrastructure.
 
-In light of this the [RoadMap](https://boom.army/docs/docs/prologue/roadmap/) has been updated to reflect the current state. You'll see the MP is still part of the bigger vision, we really just need to get the core functionality as good as it can be first before we deliver it.
+In light of this the [RoadMap](https://docs.boom.armydocs/prologue/roadmap/) has been updated to reflect the current state. You'll see the MP is still part of the bigger vision, we really just need to get the core functionality as good as it can be first before we deliver it.
 
 ### What this means for Boom
 
@@ -66,7 +66,7 @@ We didn't raise as much as we hoped with the [Boom Heroes NFT](https://boom.army
 
 ### Marketing and product fit are an ongoing challenge
 
-We're getting better and better each week, but its immediately apparent we're still not crushing our product offering, and therefore marketing is a challenge. Who would of thought that building an entire web3 social network from scratch would be so hard! Lol, anyway we're up for it and the best thing is we're aware of our shortcomings. In fact the update of the [RoadMap](https://boom.army/docs/docs/prologue/roadmap/) and reallignment of priorities is directly targeted at addressing this problem. After all, marketing is the price that average projects pay for exposure, and we're aiming to step up the game across the board.
+We're getting better and better each week, but its immediately apparent we're still not crushing our product offering, and therefore marketing is a challenge. Who would of thought that building an entire web3 social network from scratch would be so hard! Lol, anyway we're up for it and the best thing is we're aware of our shortcomings. In fact the update of the [RoadMap](https://docs.boom.armydocs/prologue/roadmap/) and reallignment of priorities is directly targeted at addressing this problem. After all, marketing is the price that average projects pay for exposure, and we're aiming to step up the game across the board.
 
 ## Things delivered since last update
 

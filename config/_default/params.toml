@@ -12,7 +12,7 @@ description = "All of the readmes, wikis and guides for everything to do with bo
 ## Open Graph
 images = ["boom-army.png"]
 ogLocale = "en_US"
-domainTLD = "boom.army/docs"
+domainTLD = "docs.boom.army"
 titleHome = "Boom Army Docs"
 
 ## Twitter Cards

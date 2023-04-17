@@ -1,4 +1,4 @@
-baseurl = "https://boom.army/docs"
+baseurl = "https://docs.boom.army"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
