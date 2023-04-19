@@ -14,17 +14,17 @@ contributors: ["harkl"]
 
 <img src="hacker.png" alt="Hacker time" width="400"/>
 
-Over the past few weeks, I've been hard at work to improve some of the core features and tooling of [Boom](https://boom.army). Today, I'm excited to share a behind-the-scenes look into the commit history of my both the back and front end GitHub repositories, which offer insight into the various enhancements and fixes I've implemented.
+Over the past few weeks, I've been hard at work to improve some of the core features and tooling of [Boom](https://boom.army). Today, I'm excited to share a behind-the-scenes look into the commit history of the Boom Army GitHub repositories, which offer insight into the various enhancements and fixes I've implemented.
 
-One of my primary focuses has been streamlining the deployment and building processes. Notable commits include updating the deployment process for production, adjusting the build process to deploy from Mac M! (arm64 arch) to AWS ECS (amd64 arch) architecture, and tweaking the Docker configurations to build correctly. I also migrated to Node 18 LTS and introduced development tooling for DevOps, ensuring a smoother and more efficient workflow. This means I can now deliver faster!
+One of my primary focuses has been streamlining the deployment and building processes ready for the next phase of delivery. Notable commits include updating the deployment process for production, adjusting the build process to deploy from Mac M1 (arm64 arch) to AWS ECS (amd64 arch) architecture, and tweaking the Docker configurations to build correctly. I also migrated to Node 18 LTS and introduced development tooling for DevOps, ensuring a smoother and more efficient workflow. This means I can now deliver faster with more predictability!
 
-I put considerable effort into setting up and refining the TypeScript (ts) environment. With multiple commits centered on configuring TypeScript, I managed to establish an up to date best in class build process which should mean less bugs and better stability in future.
+I put considerable effort into setting up and refining the TypeScript (ts) environment. With multiple commits centered on configuring TypeScript, I established an up to date best practice build process, which should mean less bugs and better stability in future.
 
-In terms of application features, I enhanced the platform's user interface and experience by adding a dashboard with new components like home panels, a tag cloud, and the top meepers list. I made significant updates to the meep schema, allowing for better management of master meeps and child meeps which you'll see reflected in the new threeading. Additionally, I implemented nested comments in the meep view and improved the display and search functionalities for tags.
+In terms of UX features, Boom now has a shiny new dashboard with new components like home panels, a tag cloud, and the top meepers list. The aim is for this to be THE place to go to get an overview of sentiment on Solana at any given time complete with news, meeps and leaderboards. I made significant updates to the meep schema, allowing for better management of master meeps and child meeps which you'll see reflected in the new threeading. Additionally, I implemented nested comments in the meep view and improved the display and search functionalities for tags.
 
 Security and performance were not overlooked. I made critical updates to CORS settings, authentication, and error logging. Moreover, I worked on optimizing queries, implementing several new fetch limits, and introducing a more advanced date range functionality for returning date specific content.
 
-Lastly, I dedicated time to refining the visual aspects of the platform. I styled titles, made adjustments to the user channels namespace, and even hid non-awarded badges for a cleaner look.
+Lastly, I dedicated time to refining the visual aspects of the platform. I styled threads, made adjustments to the namespaces format, and resturctured the Cloudfront DNS to handle moving the site from the app.boom.army domain to the root domain, complete with the docs and blog sections.
 
 # Why did I do this?
 
