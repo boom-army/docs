@@ -2,7 +2,7 @@
   name = "Prologue"
   weight = 10
   identifier = "prologue"
-  url = "/prologue/"
+  url = "/docs/prologue/"
 
 # [[docs]]
 #   name = "Help"
@@ -24,7 +24,7 @@
 
 [[main]]
   name = "Docs"
-  url = "/prologue/introduction/"
+  url = "/docs/prologue/introduction/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
@@ -35,7 +35,7 @@
 
 [[main]]
   name = "Blog"
-  url = "blog/"
+  url = "/blog/"
   weight = 20
 
 # [[main]]
