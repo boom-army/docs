@@ -10,7 +10,7 @@ images: ["house.png"]
 contributors: ["harkl"]
 ---
 
-## Platform Upgrades for Boom in Preparation for WhatIsGorgon and Sub-DAOs
+## Platform Upgrades for Boom in Preparation for #WhatIsGorgon and Sub-DAOs
 
 Hello everyone! I'm excited to share some recent updates to our project that I've been working diligently on. We've made significant changes to prepare the backend and client for new code, involving library upgrades and adopting modern best practice approaches.
 
@@ -24,11 +24,11 @@ I'm working hard to enhance the platform so that when the next bull market arriv
 
 ## Update on #Boom30K Celebration
 
-![Solid platform](house.png)
-
 There's no timeline on the [#Boom30K](https://boom.army/explore?type=TAGS&term=%23Boom30K) wallet celebration. I'm interested to hear feedback about how we might run this. Having an online event where we all jump in a Twitter space could be fun and then run an online wheel of fortune ticker. Let me know if this appeals.
 
 ## Boom Auction House Progress
+
+![Solid platform](house.png)
 
 All this [Metaplex](https://www.metaplex.com) NFT work folds directly into the Auction House delivery. Having the right toolset for minting, auctioning, and custodianship of NFTs is essential for the functionality.
 
@@ -36,7 +36,7 @@ All this [Metaplex](https://www.metaplex.com) NFT work folds directly into the A
 
 The sub-DAO functionality is the next priority now that the [Metaplex](https://www.metaplex.com) upgrades are completed. This should be a relatively small piece of work, so expect to see it delivered soon.
 
-## WhatIsGorgon
+## #WhatIsGorgon
 
 ![What is gorgon](gorgon.png)
 
