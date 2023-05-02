@@ -18,7 +18,7 @@ The majority of the work to date has gone into the NFT Communities, and I can no
 - Sadar Wa <The Meepor> Regular -> Legendary Action Card NFTs complete
 - We've added snapshot test coverage to 50% of the UX App which will stabilise the app
 - Improved the UX around "Mint your own NFT" (not deployed)
-- [We completed the Boom Heroes Seasons brief](https://docs.boom.armydocs/prologue/season-challenges/)
+- [We completed the Boom Heroes Seasons brief](https://docs.boom.army/prologue/season-challenges/)
 - [$BMA total value locked has gone from $34k -> $63k](https://birdeye.so/token/boomh1LQnwDnHtKxWTFgxcbdRjPypRSjdwxkAEJkFSH)
 - $BMA token is up 39% from 0.15 USD -> 0.192 USD
 - [Farming $BMA is currently paying out 964.35% APR](https://dex.aldrin.com/pools/BMA_USDC)

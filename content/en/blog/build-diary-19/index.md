@@ -38,7 +38,7 @@ A large part of the drive behind Profile based Auction Listings on Boom Army is 
 
 ### #The1303 are finally going to get paid
 
-For a good 6 months now I've been talking about [#The1303 NFT and profit sharing 13.03% of the marketplace proceeds](https://docs.boom.armydocs/prologue/1303/) with the holders. With the advent of #BoomOnes this is finally happening and I can't state enough how stoked I am to finally deliver on this. ❤️
+For a good 6 months now I've been talking about [#The1303 NFT and profit sharing 13.03% of the marketplace proceeds](https://docs.boom.army/prologue/1303/) with the holders. With the advent of #BoomOnes this is finally happening and I can't state enough how stoked I am to finally deliver on this. ❤️
 
 ## The Poor Club X Boom Army
 
@@ -80,7 +80,7 @@ At the start of the year Boom received a small amount of funding from Big Brain 
 
 * The Solana native social media experience (similar to twitter) on boom.army complete with follows, retweets, reactions, and notifications
 * Instant social account creation simply by connecting your Solana wallet
-* NFT secured chat for ANY NFT (similar to telegram) boom.army/channels
+* NFT secured chat for ANY NFT (similar to telegram) boom.army/d
 * The ability for users to mint their own NFTs at boom.army/mint-nft
 * On platform tipping of posts using the native $BMA token
 * A profile gallery for user profiles to show off NFTs eg. [boom.army/harkl](https://boom.army/harkl)

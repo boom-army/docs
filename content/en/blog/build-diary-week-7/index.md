@@ -14,7 +14,7 @@ Today is day 8 for me, and while the overall experience has been pretty much jus
 
 In spite of that we have a few things to report, especially as we gear up towards the launch of the Boom Heroes Season Challenges that are getting very close. All of the colored generative elements are functionally complete. In fact we'll be launching the first Season on April 15 in just 2 weeks.
 
-For a full breakdown of what Season Challenges are and how they'll work [see the Wiki](https://docs.boom.armydocs/prologue/season-challenges/). But the TLDR is as follows:
+For a full breakdown of what Season Challenges are and how they'll work [see the Wiki](https://docs.boom.army/prologue/season-challenges/). But the TLDR is as follows:
 
 - Launch date April 15
 - 4777 Boom Heroes Season Challenge Passes available

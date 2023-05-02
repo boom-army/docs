@@ -45,14 +45,14 @@ We'll be implementing the Comment threads design above, and then deploying all t
 - The NFT minting tool - you can now mint NFTs to create your own DAO Communities
 - Comment threads for NFT Community DAO Channels
 
-We're hoping this is going to cause quite a stir, just in time to promo our [Boom Heroes NFT](https://docs.boom.armydocs/prologue/season-challenges/) Season Challenges.
+We're hoping this is going to cause quite a stir, just in time to promo our [Boom Heroes NFT](https://docs.boom.army/prologue/season-challenges/) Season Challenges.
 
 ## Other things we've shipped this week
 
 - Produced a couple of dope video promos [here](https://twitter.com/boom_army_/status/1504635740801896448?s=20&t=pwrAlcNezC_SCFksS-yJdw) and [here](https://twitter.com/boom_army_/status/1504573388396044288?s=20&t=pwrAlcNezC_SCFksS-yJdw)
-- Completed the [Boom Heroes NFT](https://docs.boom.armydocs/prologue/season-challenges/) elements (we're in the process of reworking these with a second artist as the quality needed improving)
+- Completed the [Boom Heroes NFT](https://docs.boom.army/prologue/season-challenges/) elements (we're in the process of reworking these with a second artist as the quality needed improving)
 - [Launched Boom.Army docs for all info detail](https://boom.army/docs)
-- [Launched a Boom.Army blog](https://docs.boom.armyblog/)
+- [Launched a Boom.Army blog](https://docs.boom.army/blog/)
 - [Created a linktree page for all our links](https://linktr.ee/boom_army)
 
 Until next week folks!

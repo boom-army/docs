@@ -45,13 +45,13 @@ The first is using NFTs as a secure gate to access Telegram like message channel
 
 ### NFT Messaging updates
 
-The NFT Channel functionality has been updated as I start to deliver on the ideas mentioned above. If you visit the [Channels page](https://boom.army/channels) you'll notice that while the functionality looks similar there have been a whole bunch of updates that now load channels to your profile by default. This gives you the ability to see how many other users are in channels and then directly join them to chat securely with your NFT as the  security token. There's nothing else like it that exists anywhere in the ecosystem currently.
+The NFT Channel functionality has been updated as I start to deliver on the ideas mentioned above. If you visit the [Channels page](https://boom.army/d) you'll notice that while the functionality looks similar there have been a whole bunch of updates that now load channels to your profile by default. This gives you the ability to see how many other users are in channels and then directly join them to chat securely with your NFT as the  security token. There's nothing else like it that exists anywhere in the ecosystem currently.
 
 ## Boom Heroes Promotions (Advertising Engine)
 
 <img src="boomad.png" alt="Boom Advertising" width="400"/>
 
-The entire Social space is driven by Advertising and this has always been on the todo list as ["Season Challenges"](https://docs.boom.armydocs/prologue/season-challenges/). I'm going to use the Boom Heroes feed to partner with other Solana organisations and engage users with unique promotions where the payouts are made to YOU! It's the same model essentially that centralized Social media uses except instead of business to business payments for advertising, we're flipping the script and paying out the proceeds to users for engagement. We had huge success with our #BoomFunded tipping campaign and that is largely the model I'll be sticking with.
+The entire Social space is driven by Advertising and this has always been on the todo list as ["Season Challenges"](https://docs.boom.army/prologue/season-challenges/). I'm going to use the Boom Heroes feed to partner with other Solana organisations and engage users with unique promotions where the payouts are made to YOU! It's the same model essentially that centralized Social media uses except instead of business to business payments for advertising, we're flipping the script and paying out the proceeds to users for engagement. We had huge success with our #BoomFunded tipping campaign and that is largely the model I'll be sticking with.
 
 ## Solana Tools (The Lab)
 
