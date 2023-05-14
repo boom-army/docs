@@ -16,7 +16,7 @@ Here's the things Boom has delivered since the last update.
 
 ### Updated the entire Candy Machine v2 platform
 
-The Candy Machine from Metaplex received some heavy upgrades (many with breaking changes) so I dug into the codebase and upgraded the whole thing. It was a sizable job but now the Candy Machine has bot and spam protection. I'm hoping one day we're going to need this, but until that day happens I'm going to keep on quietly building and delivering value to the platform for our faithful community. 
+The Candy Machine from Metaplex received some heavy upgrades (many with breaking changes) so I dug into the codebase and upgraded the whole thing. It was a sizable job but now the Candy Machine has bot and spam protection. I'm hoping one day we're going to need this, but until that day happens I'm going to keep on quietly building and delivering value to the platform for our faithful community.
 
 ### Added rich links to posts
 
@@ -28,7 +28,7 @@ Some people have been watching the [$BMA token price](https://birdeye.so/token/b
 
 **TLDR;** We're yet to add any real utility to the token and both the volume and liquidity are really low so it doesn't take much to shift the token price.
 
-The longer explanation is that we've got an ex team member who was paid in $BMA for the work they did for us, and they're drawing down the liquidity which is shifting the price down. This isn't on them, the markets are tough at the moment and a lot of people are looking for liquidity so it's understandable that they'd want to extract the value from the token for the work they did. 
+The longer explanation is that we've got an ex team member who was paid in $BMA for the work they did for us, and they're drawing down the liquidity which is shifting the price down. This isn't on them, the markets are tough at the moment and a lot of people are looking for liquidity so it's understandable that they'd want to extract the value from the token for the work they did.
 
 Unfortunately because the core token utility at the moment is on platform tipping, there's not much USDC volume flowing in, and the lion share of USDC volume is flowing out. So this is driving the price down. It's a great lesson on why utility is king, and every project needs it for when the hype dies down.
 

@@ -34,7 +34,7 @@ The first 1/1 we've made was for [@fordudesake](https://twitter.com/fordudesake)
 
 <img src="squid-dude.png" alt="ForDudesSake" width="400"/>
 
-If you jump onto Twitter and look at his profile picture he's already done a pretty great derivative. 
+If you jump onto Twitter and look at his profile picture he's already done a pretty great derivative.
 
 <img src="15jzGFdd_400x400.jpg" alt="TeePeeForDudesSake" width="400"/>
 

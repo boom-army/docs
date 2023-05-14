@@ -44,7 +44,7 @@ For a good 6 months now I've been talking about [#The1303 NFT and profit sharing
 
 Boom have just finished part 1 of a 2 part colab with a with The Poor Club. We've swapped a [Boom Heroes NFT](https://magiceden.io/marketplace/boomheroes) and .poor domain NFT and completed a cross promotion to win the Boom Hero and 💥.poor NFT respectively. Part 2 will be to auction off a 💥📦 loot box on the new Boom Ones auction platform. This is a big deal because it's ironing out the framework for an easy template to do a bunch of colabs in the future. Most teams I've met are really short on time as a resource so being able to approach them with a one page outline to run an auction colab is a great opportunity for everyone.
 
-### Winner of 💥.poor 
+### Winner of 💥.poor
 
 Winner of 💥.poor [@Drowxes](https://twitter.com/Drowxes) with "Poor heroes waiting for bitcoin pump"
 
@@ -62,7 +62,7 @@ Metrics are still strong. We're consistently getting around 3k unique visitors p
 
 <img src="stats.png" alt="Boom Stats" width="400"/>
 
-There are a few grant applications in the mix too. But no revenue currently. With the company split and settling debts owed I'm going to retain enough capital personally to keep the lights on for another 12 months or so. Any grants will make it significantly longer because the monthly costs currently sit around $400-600. 
+There are a few grant applications in the mix too. But no revenue currently. With the company split and settling debts owed I'm going to retain enough capital personally to keep the lights on for another 12 months or so. Any grants will make it significantly longer because the monthly costs currently sit around $400-600.
 
 Unfortunately with the current state of budget and revenue I'm not going to make it to breakpoint any more though which I'm GUTTED about. There's always next year I guess ❤️
 

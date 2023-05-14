@@ -29,15 +29,15 @@ The upgrades delivered include:
 
 ## Glow Wallet
 
-We're currently in the process of helping out a fellow Solana Community member who is doing a screencast of how Glow Wallet works. 
-He's going to be using Boom Army to demo the login process, so as part of the integration we had to update a bunch of libraries. 
+We're currently in the process of helping out a fellow Solana Community member who is doing a screencast of how Glow Wallet works.
+He's going to be using Boom Army to demo the login process, so as part of the integration we had to update a bunch of libraries.
 I'm personally really looking forward to seeing it and will make sure to post a link on Boom Army once it is live.
 
 You can [read more about in this Medium Article](https://medium.com/stakingbits/glow-wallet-for-solana-the-most-user-friendl-ea0d255a9ab2).
 
 ## Slope Wallet
 
-We've had a lot of requests for [Slope Wallet](https://slope.finance) integration and I'm really pleased to have been able to finally deliver it. 
+We've had a lot of requests for [Slope Wallet](https://slope.finance) integration and I'm really pleased to have been able to finally deliver it.
 Ultimately the more ways of connecting the wider our Community can reach. So it's all positive news.
 
 ## 1/1 Boom Heroes

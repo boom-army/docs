@@ -16,7 +16,7 @@ As the bear market ticks on we continue to build and upgrade features on the pla
 
 <img src="boom-heroes-me.png" alt="Boom heroes Magic Eden" width="400"/>
 
-This week we launched our [Boom Heroes NFT collection Market Place on Magic Eden](https://magiceden.io/marketplace/EJqr8VRC3rJaEVDDkcbG9G122ixW1GQ4f6y6vMwaGoco). The final collection count of Boom Heroes in the wild is 777. We haven't decided what to do with the remaining 4000, but for now it's as if they never existed as they're locked up and unaccessible in the Candy Machine and they'll stay there indefintely. With only 90 Boom Heroes listed as of this date it means as we get verified, appear on platforms like [Hello Moon](https://www.hellomoon.io) and start propagating on other NFT sniping tools we'll get more exposure. And as we continue to add functionality including the upcoming [Season Challenge's](https://docs.boom.army/prologue/season-challenges/) and [Reverse Advertising Engine](https://docs.boom.army/prologue/whitepaper/) the Boom Heroes should increase in value and become highly sort after. Given that they're specifically marked as a "Season One" pass, in all liklihood we'll generate a "Season Two" NFT rather than minting the remaining 4000 Season One Boom Heroes. 
+This week we launched our [Boom Heroes NFT collection Market Place on Magic Eden](https://magiceden.io/marketplace/EJqr8VRC3rJaEVDDkcbG9G122ixW1GQ4f6y6vMwaGoco). The final collection count of Boom Heroes in the wild is 777. We haven't decided what to do with the remaining 4000, but for now it's as if they never existed as they're locked up and unaccessible in the Candy Machine and they'll stay there indefintely. With only 90 Boom Heroes listed as of this date it means as we get verified, appear on platforms like [Hello Moon](https://www.hellomoon.io) and start propagating on other NFT sniping tools we'll get more exposure. And as we continue to add functionality including the upcoming [Season Challenge's](https://docs.boom.army/prologue/season-challenges/) and [Reverse Advertising Engine](https://docs.boom.army/prologue/whitepaper/) the Boom Heroes should increase in value and become highly sort after. Given that they're specifically marked as a "Season One" pass, in all liklihood we'll generate a "Season Two" NFT rather than minting the remaining 4000 Season One Boom Heroes.
 
 ## Notifications are Live
 
@@ -30,7 +30,7 @@ Notifications are currently enabled for:
 - When someone tips your Meep
 - When someone adds a reaction to your Meep
 
-This should increase the stickiness of the platform a lot. It's been one of the big missing features for quite a while. Already I've noticed the improvement when [@krishna](https://boom.army/krishna) messaged me and I was able to respond to him within 1 minute of the post being sent 💥. 
+This should increase the stickiness of the platform a lot. It's been one of the big missing features for quite a while. Already I've noticed the improvement when [@krishna](https://boom.army/krishna) messaged me and I was able to respond to him within 1 minute of the post being sent 💥.
 
 ## Collabs
 

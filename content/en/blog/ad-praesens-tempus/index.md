@@ -18,7 +18,7 @@ But we, the ones who know the intricacies of markets and macro-economies who hav
 
 ## The Big Picture
 
-If you zoom out and keep focused on the bigger picture you will realize this is still the greatest opportunity to setup generational wealth since the advent of the internet. Blockchain is still something new under the sun. An extraordinary premise really when you start to take that in. It solves The Byzantine Generals problem meaning that we can now guarantee consensus in a transactional environment. The requirement for a 3rd party authorities is no longer necessary and it couldn't come at a better time in history. 
+If you zoom out and keep focused on the bigger picture you will realize this is still the greatest opportunity to setup generational wealth since the advent of the internet. Blockchain is still something new under the sun. An extraordinary premise really when you start to take that in. It solves The Byzantine Generals problem meaning that we can now guarantee consensus in a transactional environment. The requirement for a 3rd party authorities is no longer necessary and it couldn't come at a better time in history.
 
 <img src="generals.png" alt="Byzantine Generals Problem" width="400"/>
 

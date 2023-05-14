@@ -78,4 +78,3 @@ A big part of this is just simplifying what the offering is currently. We've got
 ## Conclusion
 
 The Solana space is crazy. It's the most massive learning curve I've ever had to deal with and I've been involved in delivering everything web for over 15 years. We've got the most phenomenal passionate community, and I'm constantly humbled by the energy they bring to what we're doing. In the last 6 months we've built a container to hold content, and now we're ready to really press into how that content will be shaped.
-

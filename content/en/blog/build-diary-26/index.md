@@ -12,7 +12,7 @@ contributors: ["harkl"]
 
 ![DAO cyber](cypher.png)
 
-Hello everyone! Here's a quick update of the last weeks dev to give you an idea of how the new DAO direction of Boom is progressing. 
+Hello everyone! Here's a quick update of the last weeks dev to give you an idea of how the new DAO direction of Boom is progressing.
 
 ## Creating a DAO Promo Page
 

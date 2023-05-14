@@ -24,5 +24,5 @@ By far and away the biggest news since the last update is we've officially welco
 - NFT Communities functionality 80% complete
 - Improved the post NFT functionality (not deployed)
 - Updated the theming with a new font (not deployed)
-- Implemented our AI BoomBot tipping algorithm 
+- Implemented our AI BoomBot tipping algorithm
 - BoomBot paid out over $100 USD in $BMA tokens

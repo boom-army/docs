@@ -33,6 +33,7 @@ TLDR; - Head over to [boom.army](http://boom.army) and you'll be able to login u
 
 1. Click "... More"
 2. Click "Logout"
+
 ## What to expect
 
 Alpha is in the [earliest stage](https://en.wikipedia.org/wiki/Software_release_life_cycle) of the software release cycle. Many of the packages we're using in the code base are only partly formed. This is how early you are! Expect features to be generally a bit lack-lustre, and in the odd instance to be broken. If you do find something that isn't working, or have a suggestion, then please jump on **boom.army** and let [@harkl\_](https://boom.army/harkl) know. Alternately, if you're a little bit familiar with github then please do log an issue right in the [client repo](https://github.com/boom-army/boom-client/issues).

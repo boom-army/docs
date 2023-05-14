@@ -58,7 +58,7 @@ If you're going to create an air-gapped Solana wallet using a brwoser plugin you
 
 ## 3) Seedphrase backup using steel
 
-In addition to using a secure operating system and creating an air-gapped wallet, it is also important to properly backup your seed phrase. A seed phrase is a series of words that are used to restore your wallet if it is lost or stolen. Losing your seed phrase is like losing the key to your digital safe deposit box. So it's important to have a backup plan. One way to ensure that your seed phrase is properly backed up is by using a seed phrase backup tool. Using physical steel allows you to engrave your seed phrase onto a permanent durable object, providing a secure and storable backup. 
+In addition to using a secure operating system and creating an air-gapped wallet, it is also important to properly backup your seed phrase. A seed phrase is a series of words that are used to restore your wallet if it is lost or stolen. Losing your seed phrase is like losing the key to your digital safe deposit box. So it's important to have a backup plan. One way to ensure that your seed phrase is properly backed up is by using a seed phrase backup tool. Using physical steel allows you to engrave your seed phrase onto a permanent durable object, providing a secure and storable backup.
 
 ## Conclusion
 
