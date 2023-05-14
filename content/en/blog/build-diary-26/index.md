@@ -14,6 +14,10 @@ contributors: ["harkl"]
 
 Hello everyone! Here's a quick update of the last weeks dev to give you an idea of how the new DAO direction of [Boom](https://boom.army) is progressing.
 
+Listen to the Twitter spaces for a full breakdown on DAO delivery:
+
+{{< tweet user="harkl_" id="1656750151179042816" >}}
+
 ## Creating a DAO Promo Page
 
 First off, I've created a new DAO promo page, serving as a platform to advertise the new DAO functionality. This will be a great way for users to understand and engage with the DAO capabilities of our platform. But more importantly, it will act as place where NFT projects can pre-register their interest to be notified when WL invites are ready.
