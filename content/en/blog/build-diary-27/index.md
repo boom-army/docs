@@ -1,7 +1,7 @@
 ---
 title: "💥Build Diary 27💥"
-description: "In this issue - DAO Landing Page, Theme Retooling, Updated App Navigation, and More"
-lead: "In this issue - DAO Landing Page, Theme Retooling, Updated App Navigation, and More"
+description: "In this issue - Dicebear icons, Theme Retooling, Updated App Navigation, and More"
+lead: "In this issue - Dicebear icons, Theme Retooling, Updated App Navigation, and More"
 date: 2023-05-22T08:12:51+13:00
 lastmod: 2023-05-22T08:12:51+13:00
 draft: false
