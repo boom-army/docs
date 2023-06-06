@@ -29,3 +29,7 @@ For tone and style:
 Once ready output to markdown:
 
 `Turn this post into markdown and output in a code block:`
+
+For the midjourney blog post image:
+
+`/imagine Hunter S Thompson <whatever>, --c 70 --ar 19:6`
