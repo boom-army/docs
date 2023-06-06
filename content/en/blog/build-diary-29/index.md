@@ -20,7 +20,7 @@ Brace yourselves for a manic expedition through the pulsating veins of our lates
 
 We've been hammering away at our Meeps feature like a crazed sculptor on a caffeine bender, tweaking and fine-tuning until it's as sharp as the hallucinatory visions from last night. But, by God, it's not just about Meeps! We've been racking our brain cells pondering over conversations and their digital handlings.
 
-Soon, you'll witness an overhauled Tweet box, decked out in Paper elevation style, looking as flamboyant as a peacock on a cocktail. To add a dash of the unexpected, we’ve tossed in the capability to paste images directly into this input box, for sharing that's as smooth as silk sliding off a bourbon bottle.
+Soon, you'll witness an overhauled Meep box, decked out in Paper elevation style, looking as flamboyant as a peacock on a cocktail. To add a dash of the unexpected, we’ve tossed in the capability to paste images directly into this input box, for sharing that's as smooth as silk sliding off a bourbon bottle.
 
 Peek into our DAO chat (formerly, the rather unexciting 'Channels'), and you'll be gobsmacked by the radical modifications. Everything from the way we show conversations to how we present @mention links has been given an adrenaline injection, transforming discussions into something more akin to a chat on Telegram or Whatsapp.
 
@@ -32,9 +32,9 @@ In my manic pursuit of messaging perfection, the message box now radiates a cert
 
 ## Deep-Diving into Functionality: Wrestling the Digital Beast
 
-Our mastertweet threads have undergone a heavy-duty overhaul, akin to a surgical facelift. Now, the full thread remains as visible as a neon sign, even with the master tweet hogging the limelight. We've also forged a system for mastertweet and parenttweet caching to guarantee the permanence of tweet data, like some sort of unholy digital pact.
+Our mastermeep threads have undergone a heavy-duty overhaul, akin to a surgical facelift. Now, the full thread remains as visible as a neon sign, even with the master meep hogging the limelight. We've also forged a system for mastermeep and parentmeep caching to guarantee the permanence of meep data, like some sort of unholy digital pact.
 
-Furthermore, I've grappled with tweet data handling like a bull in a china shop. I've constructed a type policy for users, merged it with tweet data, and streamlined the user experience. We've advanced caching on this front as well, although we're still sharpening this beastly blade.
+Furthermore, I've grappled with meep data handling like a bull in a china shop. I've constructed a type policy for users, merged it with meep data, and streamlined the user experience. We've advanced caching on this front as well, although we're still sharpening this beastly blade.
 
 ## Expanding the DAO: Brave New World
 
