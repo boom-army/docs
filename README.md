@@ -20,7 +20,9 @@ Show lines added and removed with `git log --since="8 days ago" --numstat | awk 
 Working command for blog post generation:
 
 ```
-Write a blog post for a developer diary to update a community of software users based on the list of commits pasted below in the git log. The list of commits is from a single developer and he is addressing the community personally. Don't include references to the commit hashes and write in the context of an update on delivery that will be released in a few weeks all at once but isn't available as of today. The tone should be warm and personal as writing to friends. As much as possible group the commits into pieces of functionality to avoid doubling up on content.
+Instruction: Write a blog post for a developer diary to update a community of software users based on the list of commits pasted below in the git log. Use the starting text to the left of the colon as heading groupings for the content. The list of commits is from a single developer and he is addressing the community personally. Don't include references to the commit hashes that are to the left of the colon.
+Context: Write in the context of an update on delivery that will be released in a few weeks all at once but isn't available as of today. 
+Tone: The tone should be warm and personal as writing to friends. As much as possible group the commit messages into a cohesive story rather than doubling up in multiple sentences on content.
 ```
 
 For tone and style:
@@ -32,4 +34,4 @@ Once ready output to markdown:
 
 For the midjourney blog post image:
 
-`/imagine Hunter S Thompson <whatever>, --c 70 --ar 19:6`
+`/imagine Hunter S Thompson <whatever>, --c 70 --ar 16:9`
