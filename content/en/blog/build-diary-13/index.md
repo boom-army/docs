@@ -72,4 +72,4 @@ All profiles can now be viewed without having to connect a wallet to [Boom Army]
 
 [Nacho](https://boom.army/Nacho)
 
-Until we meet IRL - [harkl_](https://twitter.com/harkl_)
+Until we meet IRL - [harkl_](https://boom.army/#/social.boom.army/a/110693550018915728)

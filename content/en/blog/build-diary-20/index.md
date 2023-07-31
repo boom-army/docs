@@ -48,4 +48,4 @@ The best discovery from the RPC hunt I made, is that [Monke DAO run an RPC valid
 
 So where does that leave the BoomOnes Auction house? The next thing to do is to finish the Metaplex CLI which will mean I can run and test my Auction House program on devnet. From there I'll be integrating the program into the existing Boom App UX and we'll be launching again. I'm hoping this won't take much longer than a few days, and certainly not more than a week. But I'll keep everyone posted with updates on Boom, Twitter and Discord as per usual.
 
-Until we meet IRL - [harkl_](https://boom.army/harkl)
+Until we meet IRL - [harkl_](https://boom.army/#/social.boom.army/a/110693550018915728)

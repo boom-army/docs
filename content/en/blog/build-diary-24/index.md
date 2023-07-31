@@ -32,4 +32,4 @@ The main reason for the upgrade was migrating the backend from Apollo Server v3 
 
 Whatever the case the app is leaner and meaner than it's ever been and is now ready to deliver #WhatIsGorgon and the Market Place (finally). All the original plans stand, in one way, shape, or form. It's easy to forget that until [Boom](https://boom.army) gets funded I'm one dev pushing hard to implement the crazy CypherPunk dream of Decentralized Social native on [Solana](https://solana.com). It's especially challenging given so many people in the space seem much more concerned with a quick 10-100x rather than freedom focused crypto tools. That's not me, and I'm very grateful for the small passionate community we have. I also realize that I fall down in many areas, but I hope you'll see I'm never giving up on this project and will continue to buidl even if there continues to be only a few legends on [Boom](https://boom.army).
 
-I love you all - [harkl](https://boom.army/harkl)
+I love you all - [harkl](https://boom.army/#/social.boom.army/a/110693550018915728)

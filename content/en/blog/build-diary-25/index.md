@@ -48,4 +48,4 @@ The sub-DAO functionality is the next priority now that the [Metaplex](https://w
 
 If you're an investor currently seeking an established Solana project with significant upside potential to lead a round on, please feel free to get in touch.
 
-Until we meet IRL - [harkl](https://boom.army/harkl)
+Until we meet IRL - [harkl](https://boom.army/#/social.boom.army/a/110693550018915728)

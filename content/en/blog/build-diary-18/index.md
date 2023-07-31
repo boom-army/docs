@@ -71,4 +71,4 @@ You can pick up your own Boom heroes hero from [Magic Eden](https://magiceden.io
 
 This week I had the opportunity to chat with the folks from [Boomer DAO](https://twitter.com/TheBoomerDAO) and [Based](https://twitter.com/Getbased) (another Solana Social platform). [Check out the conversation here](https://twitter.com/i/spaces/1lPKqmBqOrMKb?s=20) - I ask the first question at 1h:03m and there's some good discussion around Social Media and the blockchain from there.
 
-Until we meet IRL - [harkl_](https://boom.army/harkl)
+Until we meet IRL - [harkl_](https://boom.army/#/social.boom.army/a/110693550018915728)

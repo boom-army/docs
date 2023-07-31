@@ -60,4 +60,4 @@ We cranked out 3 more custom Boom Heroes for our faithfuls this week. Here they 
 
 <img src="RAJ.png" alt="Raj" width="400"/>
 
-Until we meet IRL - [harkl_](https://twitter.com/harkl_)
+Until we meet IRL - [harkl_](https://boom.army/#/social.boom.army/a/110693550018915728)

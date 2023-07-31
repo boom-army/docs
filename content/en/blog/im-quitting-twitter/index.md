@@ -53,4 +53,4 @@ Thank you all for the journey. It's been real. I love you all.
 
 ![Hand](hand.png)
 
-Until we meet IRL - [harkl](https://social.[boom.army](https://boom.army)/@harkl)
+Until we meet IRL - [harkl](https://boom.army/#/social.boom.army/a/110693550018915728)

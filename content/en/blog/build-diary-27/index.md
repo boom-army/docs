@@ -53,4 +53,4 @@ Keep your eyes on the horizon for more updates. Until then, keep the faith!
 - **Lines added:** 7078
 - **Lines removed:** 3594
 
-Until we meet IRL - [harkl](https://boom.army/harkl)
+Until we meet IRL - [harkl](https://boom.army/#/social.boom.army/a/110693550018915728)

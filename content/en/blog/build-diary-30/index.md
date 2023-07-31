@@ -54,4 +54,4 @@ That's the long and short of it, folks. Another tsunami of updates is set to rol
 - **Lines added:** 616
 - **Lines removed:** 405
 
-Until we meet IRL - [harkl](https://boom.army/harkl)
+Until we meet IRL - [harkl](https://boom.army/#/social.boom.army/a/110693550018915728)

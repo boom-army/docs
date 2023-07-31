@@ -10,7 +10,7 @@ images: ["build-diary-week-4.jpg"]
 contributors: ["harkl"]
 ---
 
-[I think this tweet sums up my thoughts on it best](https://twitter.com/harkl_/status/1501824183759605762).
+[I think this tweet sums up my thoughts on it best](https://boom.army/#/social.boom.army/a/110693550018915728/status/1501824183759605762).
 
 By far and away the biggest news since the last update is we've officially welcomed @Flamulus to the team as our Marketing/Community Manager go to guy. Although he needs no introduction as he's been doing the hard :mahi:  for a long time around these parts with his phenomenal artistic skills. I have to say, it's an absolute pleasure to be able to have someone like him in this roll. It's just simply a huge deal for us, and another big milestone on the journey to Boom.Army delivering Decentralized Social Media on Solana.
 

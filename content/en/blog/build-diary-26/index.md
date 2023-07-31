@@ -51,4 +51,4 @@ Several enhancements have been made for the mobile view of the app:
 
 Other than that, I fixed a bug regarding the date display on the hero feed. As always, your feedback is invaluable, and we appreciate your continued support as we make improvements.
 
-Until we meet IRL - [harkl](https://boom.army/harkl)
+Until we meet IRL - [harkl](https://boom.army/#/social.boom.army/a/110693550018915728)

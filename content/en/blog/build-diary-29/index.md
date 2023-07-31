@@ -54,4 +54,4 @@ Your relentless support and rabid enthusiasm fuels this wild ride. Building for 
 - **Lines added:** 1575
 - **Lines removed:** 12260
 
-Until we meet IRL - [harkl](https://boom.army/harkl)
+Until we meet IRL - [harkl](https://boom.army/#/social.boom.army/a/110693550018915728)

@@ -38,4 +38,4 @@ It will be our first premium feature of many to come.
 
 The Boom Heroes mint was retired this week with just under 700 Heroes minted. You're going to be getting a market place listing for Boom Heroes in the next couple of weeks so you can start to trade them. Because there's so few minted it means they are a lot rarer than if they had all sold out. This should give people good opportunity to make some money from sales as we have no plans at this stage to release any more onto the open market. With the addition of the Boom heroes global feed, they will have real utility on platform too.
 
-Until we meet IRL - [harkl_](https://boom.army/harkl)
+Until we meet IRL - [harkl_](https://boom.army/#/social.boom.army/a/110693550018915728)

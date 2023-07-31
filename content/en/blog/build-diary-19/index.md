@@ -83,10 +83,10 @@ At the start of the year Boom received a small amount of funding from Big Brain 
 * NFT secured chat for ANY NFT (similar to telegram) boom.army/d
 * The ability for users to mint their own NFTs at boom.army/mint-nft
 * On platform tipping of posts using the native $BMA token
-* A profile gallery for user profiles to show off NFTs eg. [boom.army/harkl](https://boom.army/harkl)
+* A profile gallery for user profiles to show off NFTs eg. [boom.army/harkl](https://boom.army/#/social.boom.army/a/110693550018915728)
 * Our own NFT [Boom Heroes NFT](https://magiceden.io/marketplace/boomheroes) which allows access to post on the public social feed
 * On-going hosting and storage fees
 
 I honestly can't express enough how thankful I am toward them. None of what I've built would be possible without that funding.
 
-Until we meet IRL - [harkl_](https://boom.army/harkl)
+Until we meet IRL - [harkl_](https://boom.army/#/social.boom.army/a/110693550018915728)

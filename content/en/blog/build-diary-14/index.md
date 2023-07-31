@@ -14,7 +14,7 @@ It's no secret that the last 9 weeks have been brutal across the board in Crypto
 
 ## The state of NFTs and Solana
 
-Add to this the number of [low quality](https://twitter.com/harkl_/status/1531754907212324865) and [knock-off](https://twitter.com/Not_OkayBears) NFT projects that have crowded into the space in the same timeframe, and it makes for a boiling pot of pretty nasty proportions. It's the sort of environment where you get to see the true colors of a community and the report card isn't looking good. [Take this tweet](https://twitter.com/harkl_/status/1531754907212324865) I recently posted which somehow got more likes and engagement than most of the web3 Social Media Glass Chewing I've done in the last month alone. It's really a sorry state of affiars.
+Add to this the number of [low quality](https://boom.army/#/social.boom.army/a/110693550018915728/status/1531754907212324865) and [knock-off](https://twitter.com/Not_OkayBears) NFT projects that have crowded into the space in the same timeframe, and it makes for a boiling pot of pretty nasty proportions. It's the sort of environment where you get to see the true colors of a community and the report card isn't looking good. [Take this tweet](https://boom.army/#/social.boom.army/a/110693550018915728/status/1531754907212324865) I recently posted which somehow got more likes and engagement than most of the web3 Social Media Glass Chewing I've done in the last month alone. It's really a sorry state of affiars.
 
 <img src="poop.png" alt="Poop Tweet" width="400"/>
 
@@ -77,4 +77,4 @@ Last but certainly not least.
 - UX overhaul of layout and container
 - 21 news feed content sources added
 
-Until we meet IRL - [harkl_](https://twitter.com/harkl_)
+Until we meet IRL - [harkl_](https://boom.army/#/social.boom.army/a/110693550018915728)

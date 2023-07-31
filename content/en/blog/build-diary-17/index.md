@@ -47,4 +47,4 @@ We've got a couple of teams we're talking to at the moment, and I'm really looki
 
 If you're new and want to find out about all things Boom including reading the Whitepaper and Roadmap then check out our [linktree](https://linktr.ee/boom_army).
 
-Until we meet IRL - [harkl_](https://boom.army/harkl)
+Until we meet IRL - [harkl_](https://boom.army/#/social.boom.army/a/110693550018915728)

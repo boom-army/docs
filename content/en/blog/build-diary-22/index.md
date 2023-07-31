@@ -61,4 +61,4 @@ The lift and shift of the database to anonymously hosted, Bitcoin paid servers t
 
 <hr>
 
-Until we meet IRL - [harkl](https://boom.army/harkl)
+Until we meet IRL - [harkl](https://boom.army/#/social.boom.army/a/110693550018915728)

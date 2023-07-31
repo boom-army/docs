@@ -52,4 +52,4 @@ Listen up, v2 is on the horizon. We're tantalisingly close to the day when you'l
 - **Lines added:** 2861
 - **Lines removed:** 4756
 
-Until we meet IRL - [harkl](https://boom.army/harkl)
+Until we meet IRL - [harkl](https://boom.army/#/social.boom.army/a/110693550018915728)

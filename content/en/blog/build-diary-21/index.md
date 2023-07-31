@@ -36,6 +36,6 @@ If you've noticed that tipping is sporadic and profiles don't load NFT galleries
 
 ## A focus on funding
 
-In the short-term I'm focused on securing a steady line of funding so that I can hire some developers and stop working on everything myself. Unfortunately there's just not enough time in the day to do everything alone. Boom is a massive undertaking for one individual and even though I've been going solo on the project for over a year now and delivering successfully I'm acutely aware that I need to get serious and get funded so the whole project can take on the real contenders. If you're a VC looking to fund a serious builder project, then don't hesitate to reach out on [twitter in my DMs](https://twitter.com/harkl_). I'd love to chat.
+In the short-term I'm focused on securing a steady line of funding so that I can hire some developers and stop working on everything myself. Unfortunately there's just not enough time in the day to do everything alone. Boom is a massive undertaking for one individual and even though I've been going solo on the project for over a year now and delivering successfully I'm acutely aware that I need to get serious and get funded so the whole project can take on the real contenders. If you're a VC looking to fund a serious builder project, then don't hesitate to reach out on [twitter in my DMs](https://boom.army/#/social.boom.army/a/110693550018915728). I'd love to chat.
 
-Until we meet IRL - [harkl_](https://boom.army/harkl)
+Until we meet IRL - [harkl_](https://boom.army/#/social.boom.army/a/110693550018915728)

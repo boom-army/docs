@@ -50,7 +50,7 @@ We've targeted 420M tokens to give a good price range on our journey to a fully 
 ## Team
 
 - [Quiet Salad](https://twitter.com/dingo_dingo2020) - CEO
-- [Harkl](https://twitter.com/harkl_) - CTO
+- [Harkl](https://boom.army/#/social.boom.army/a/110693550018915728) - CTO
 
 ## Q3 2022
 

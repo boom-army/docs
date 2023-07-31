@@ -40,4 +40,4 @@ It's obvious that the site is in beta at the moment as there's still functionali
 
 Part of the work done behing the scenes to get NFT PFP's working was to upgrade the way the site deals with NFT data. The new structure means [Boom](https://boom.army) can start to use NFTs more and more to secure different elements and gate experiences on the app. As we move more elements on-chain to Solana it will allow [Boom](https://boom.army) to provide a premium experience and utilize the $BMA token in combination with NFTs that our users hold for some pretty cool stuff. Watch this space!
 
-Until we meet IRL - [harkl_](https://boom.army/harkl)
+Until we meet IRL - [harkl_](https://boom.army/#/social.boom.army/a/110693550018915728)
