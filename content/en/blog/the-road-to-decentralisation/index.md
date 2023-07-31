@@ -1,55 +1,56 @@
 ---
-title: "The road to decentralisation"
-description: "The long road to decentralisation"
-lead: "Boom Social has finally gone decentralised at social.boom.army"
-date: 2023-06-13T08:12:51+13:00
-lastmod: 2023-13-06T08:12:51+13:00
+title: "I'm done with twitter"
+description: "It's time to say goodbye to X/Twitter"
+lead: "It's time to say goodbye to X/Twitter"
+date: 2023-07-31T08:12:51+13:00
+lastmod: 2023-07-31T08:12:51+13:00
 draft: false
 weight: 50
-images: ["signup.png"]
+images: ["hand.png"]
 contributors: ["harkl"]
 ---
 
-![GM](gm.png)
+Over the last few months I've noticed that my reach and voice has got smaller and smaller. It seems like a common story for many too, as I can no longer connect with and keep track of all the Solana peeps that I used to know and love. I'm not sure we realise how big a point of failure Twitter is for the Solana community as a whole. But it's increasingly hard to keep up with new developments in the Solana space on the Xird App. Either that or the devs and community are falling away on the back of the NFT grifts, gambling and a lack of a strong voice from the Foundation. Generally, it's hard to get a scientific read on it - whatever the case the vibe is definitely dead for me RN.
 
-## Into decentralisation
+## We are in love with our captors
 
-As you all know one of the long term goals of [Boom](boom.army) is to have a decentralized social experience. By far my biggest bugbear with the app currently is that it runs a centralized postgres instance on AWS. Not ideal and not decentralised at all!
+In 1973, a hostage crisis in Stockholm, Sweden, led to a curious observation. Victims of this harrowing event began showing empathy towards their captors, forming inexplicable emotional bonds. This surprising psychological reaction, now known as Stockholm Syndrome, is when the imprisoned or abused paradoxically find solace in the very people causing their trauma. It's a perplexing scenario that unfolds in oppressive environments, from abusive relationships to cult indoctrinations. What may seem like the softening of a captor's abusive act, can be, in fact, a survival instinct of the victim. It's another strange and wonderful output of the human condition, and it's my new working thesis for Twitters relationship with it's users.
 
-With the advent of [Threads](https://www.threads.net) choosing the open source federated social protocol [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub) and the positive reaction from the Solana community around this I feel like decentralised social infra has a clear winner, and now is the time to embrace that specific technology. The obvious candidate for delivery of this is [Mastodon](https://joinmastodon.org) which has been around since 2016 and is mature and fully featured.
+## State of BOOM!
 
-## Benefits of adopting ActivityPub
+I started [boom.army](https://boom.army) in conjunction with [#Solana](https://boom.army/#/social.boom.army/t/Solana) to combat the rising tide of abuse from centralised platforms who take everything from their users and mortgage their data to the highest bidder. I thought I could provide a platform where people could own their accounts and maintain anonymity and that people would take notice; I thought people cared about decentralisation; but ultimately my thesis has proven to be wrong.
 
-**We're going to get a tonne of stuff for free:** It's been a really difficult road as a single dev building out an open source social media app for Solana. The sheer amount of work required to get something that puts the viable in MVP for a social app has been a mammoth task. With no clear pathway to open adoption and an established decentralised winner in Mastodon, it's time to work smarter rather than harder. Mastodon has been in prod for several years, and the app is a fully featured competitor for the likes of Twitter and we can benefit hugely from that.
+In spite of this I feel that the direction and implementation of [boom.army](https://boom.army) has now hit all the big goals I wanted to achieve from the outset:
 
-**You finally own your profile:** You can use your <name>@social.boom.army profile on any Mastodon server with any client to customise your own social experience. You'll retain all your follows and followers and no one will be able to take it away from you. This was what we have always dreamed about as a community.
+* It's decentralised on [Mastodon](https://joinmastodon.org)
+* It has an absolutely killer UX that is better than twitter IMHO
+* It is completely built on top of open protocols and ALL the code is open source
+* It houses the #BoomHeroes community
 
-**Solana will have it's FIRST decentralised social network:** Boom has talked a big game about this happening and it's finally here if all is positive with the DAO vote.
+I've been thinking on the possibilities of what's next now that real decentralisation has been achieved. This is my current thinking as of today but there is no hard timeline for delivery:
 
-**We're going to bring Solana to ActivityPub:** There are huge opportunities for building out integrations between Solana and federated social. That's always been one of Boom's goals and we're going to be diving into head first.
+![Planning](planning.png)
 
-## A master plan
+Once again I'm working on assumptions, and unless I see uptake of the platform in the short term there seems to be no sense in actioning more dev when interest in the space is low and no one is clamouring for it to be built. 
 
-So here's what I'd like to do:
+This might change when the Bull Market comes back, but ultimately if I'm honest I'm tapped out and lacking direction for any future dev on Boom RN. 
 
-[![Signup](signup.png)](https://social.boom.army/auth/sign_up)
+## Where I'm looking for vibes
 
-1) **Trial the social app:** I've setup an instance of [Mastodon](https://joinmastodon.org) (which runs ActivityPub) for us to trial at **[social.boom.army](https://social.boom.army)**. For the trial we're all going to need to signup at **[social.boom.army/auth/sign_up](https://social.boom.army/auth/sign_up)** - note that all email addresses will be safely held by Boom on our own federated instance.
-2) **Discuss and vote on [social.boom.army](https://social.boom.army):** We'll use the native voting system on our local Mastodon instance to make group decisions until the Modular Governance contract is setup and ready to use and we can vote on-chain using our wallets. Once we all feel we've had a good chance to trial the site I'll put up a final vote as determined by the DAO.
-3) **Get ready for a whole suite of DAO tools**: Alongside video chat, we're now going to have another tool in social.boom.army. And this is just the start of a whole collection of tools that will allow DAOs across Solana to govern and grow their communities. All delivered and crowd-sourced by [#BoomHeroes](https://social.boom.army/tags/BoomHeroes)
+It's time to get balance back to my life after 2 of the most hectic years I've lived and focus on the real things in my life - family, friends, fitness, walking on the beach with my dog, going for long aimless rides with no planned destination and general analog activities.
 
-![#BoomHeroes](boomheroes.png)
+I'm going to maintain the codebase for and be on [boom.army](https://boom.army) exclusively from here digging into the 2M+ strong Mastodon community with an open heart and mind. The core people I care about from Solana are on there, and it's nice to be in a place with a strong core of people I know and love where I have an equal footing in the fediverse with everyone else.
 
-## What this means for [boom.army/feed](https://boom.army/feed)
+The old Boom site will be archived and everything built to date will be archived on [Boom's Github](https://github.com/boom-army).
 
-Nothing changes with the existing feed for now, but the unfortunate reality is that it's never really been fit for purpose in spite of having some great features like tipping, native Solana NFT posts, and native Solana NFT avatar integration. The long term plan is to implement these features and integrate them with ActivityPub - which is actually a much more compelling use case.
+Over the next few months as I recover from the last 2 years I'll most probably start hacking on my [Harkl](https://github.com/h4rkl) account again. I've got a few things in the back of my mind that I want to dig into that being a solo founder got in the way of. 
 
-## What about #BoomHeroes?
+I'll be going to Breakpoint in November, and I'm looking forward to using it to put a cap on my time in Solana and meet all the amazing people I've interacted with and observed from afar. I'm still Bullish on the tech, the thesis, and most of all the people.
 
-[Boom Heroes](https://www.tensor.trade/trade/boomheroes) are the key to everything we're doing in the DAO membership, and we'll be discussing how we're going to use them on [social.boom.army](https://social.boom.army). In the medium term as long as the DAO agrees this is the right direction we'll be migrating many of the Solana integrations currently on [boom.army/feed](https://boom.army/feed) to [social.boom.army](https://social.boom.army).
+I'm not deleting twitter, and I'll probably check back in occasionally. I'm not on any other social media or public site. But, it's time to focus on being alive and withdraw further into the cypherpunk cave.
 
-## Where are we heading longer term?
+Thank you all for the journey. It's been real. I love you all.
 
-Solana moves so fast that nothing is set in stone, but this whole approach feeds into a bigger plan we've been discussing in [#BoomDAO](https://social.boom.army/tags/BoomDAO). It's a problem that faces the whole of web3 that needs solving - How do we get normies to adopt web3 tools? I can't let on too much about where Boom is heading with this but I can tell you that it involves email accounts, and we'll be solving this as part of the suite of tools we're delivering.
+![Hand](hand.png)
 
-Until we meet IRL - [harkl](https://social.boom.army/@harkl)
+Until we meet IRL - [harkl](https://social.[boom.army](https://boom.army)/@harkl)
