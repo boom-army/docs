@@ -3,9 +3,9 @@ title: "The road to decentralisation"
 description: "The long road to decentralisation"
 lead: "Boom Social has finally gone decentralised at social.boom.army"
 date: 2023-06-13T08:12:51+13:00
-lastmod: 2023-13-06T08:12:51+13:00
+lastmod: 2023-06-13T08:12:51+13:00
 draft: false
-weight: 20
+weight: 50
 images: ["signup.png"]
 contributors: ["harkl"]
 ---
