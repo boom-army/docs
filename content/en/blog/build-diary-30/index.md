@@ -3,7 +3,7 @@ title: "💥Build Diary 30💥"
 description: "In this issue - DAO Messaging functionality complete, Further retooling of core infra and More"
 lead: "In this issue - DAO Messaging functionality complete, Further retooling of core infra and More"
 date: 2023-06-13T08:12:51+13:00
-lastmod: 2023-13-06T08:12:51+13:00
+lastmod: 2023-06-13T08:12:51+13:00
 draft: false
 weight: 50
 images: ["hunter.png"]
