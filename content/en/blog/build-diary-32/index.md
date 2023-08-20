@@ -6,11 +6,11 @@ date: 2023-08-21T08:12:51+13:00
 lastmod: 2023-08-21T08:12:51+13:00
 draft: false
 weight: 50
-images: ["hunter.png"]
+images: ["boost.png"]
 contributors: ["harkl"]
 ---
 
-![Hunter S](hunter.png)
+![Boost](boost.png)
 
 I'm thrilled to share with you all the updates we've made in the latest release of our software. I've been working tirelessly to bring you a smoother, more polished experience, and I'm excited to walk you through the new features and improvements.
 
