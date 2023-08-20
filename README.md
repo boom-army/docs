@@ -16,12 +16,13 @@ https://getdoks.org
 ## GPT Blog Post prompts
 
 Get list of commits with `git log --since="7 days ago" --oneline`
+Get n commits: `git log -n 32`
 Show lines added and removed with `git log --since="8 days ago" --numstat | awk 'NF==3 {plus+=$1; minus+=$2; files++} END {printf("- **Files changed:** %s\n- **Lines added:** %s\n- **Lines removed:** %s\n", files, plus, minus)}'`
 Working command for blog post generation:
 
 ```
 Instruction: Write a blog post for a developer diary to update a community of software users based on the list of commits pasted below in the git log. Use the starting text to the left of the colon as heading groupings for the content. The list of commits is from a single developer and he is addressing the community personally. Don't include references to the commit hashes that are to the left of the colon.
-Context: Write in the context of an update on delivery that will be released in a few weeks all at once but isn't available as of today. 
+Context: Write in the context of an update on delivery that has just been released and has new features and make it in the first person. 
 Tone: The tone should be warm and personal as writing to friends. As much as possible group the commit messages into a cohesive story rather than doubling up in multiple sentences on content.
 ```
 
