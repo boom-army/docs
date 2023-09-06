@@ -17,7 +17,7 @@ https://getdoks.org
 
 Get list of commits with `git log --since="7 days ago" --oneline`
 Get n commits: `git log -n 32`
-Show lines added and removed with `git log --since="8 days ago" --numstat | awk 'NF==3 {plus+=$1; minus+=$2; files++} END {printf("- **Files changed:** %s\n- **Lines added:** %s\n- **Lines removed:** %s\n", files, plus, minus)}'`
+Show lines added and removed with `git log --since="23 days ago" --numstat | awk 'NF==3 {plus+=$1; minus+=$2; files++} END {printf("- **Files changed:** %s\n- **Lines added:** %s\n- **Lines removed:** %s\n", files, plus, minus)}'`
 Working command for blog post generation:
 
 ```
