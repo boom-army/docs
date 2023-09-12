@@ -13,11 +13,11 @@ Running the hugo theme Doks.
 
 https://getdoks.org
 
-## GPT Blog Post prompts
+## GPT Blog Post prompts 
 
-Get list of commits with `git log --since="7 days ago" --oneline`
+Get list of commits with `git log --since="Wed Sep 6 11:38:40 2023 +1200" --oneline`
 Get n commits: `git log -n 32`
-Show lines added and removed with `git log --since="23 days ago" --numstat | awk 'NF==3 {plus+=$1; minus+=$2; files++} END {printf("- **Files changed:** %s\n- **Lines added:** %s\n- **Lines removed:** %s\n", files, plus, minus)}'`
+Show lines added and removed with `git log --since="Wed Sep 6 11:38:40 2023 +1200" --numstat | awk 'NF==3 {plus+=$1; minus+=$2; files++} END {printf("- **Files changed:** %s\n- **Lines added:** %s\n- **Lines removed:** %s\n", files, plus, minus)}'`
 Working command for blog post generation:
 
 ```
