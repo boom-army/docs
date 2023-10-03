@@ -6,11 +6,11 @@ date: 2023-10-02T08:12:51+13:00
 lastmod: 2023-10-02T08:12:51+13:00
 draft: false
 weight: 50
-images: ["muted.png"]
+images: ["translate.png"]
 contributors: ["harkl"]
 ---
 
-![muted](muted.png)
+![translate](translate.png)
 
 Hello friends,
 
