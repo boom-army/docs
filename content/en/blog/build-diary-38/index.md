@@ -18,7 +18,7 @@ I'm excited to share with you the latest updates I've been working on. I've been
 
 ## Enhancements and Fixes
 
-I've made several enhancements to improve your experience. I've enabled comment hints for the end of threads or conversations, making it easier for you to follow discussions. I've also made some adjustments to the compose field and upgraded our dependencies to ensure everything runs smoothly.
+I've made several enhancements to improve your experience. I've enabled comment hints for the end of [threads or conversations](https://boom.army/#/social.boom.army/s/111410013223751297), making it easier for you to follow discussions. I've also made some adjustments to the compose field and upgraded our dependencies to ensure everything runs smoothly.
 
 ![comments](comments.png)
 
@@ -30,7 +30,7 @@ I've introduced some new features that I hope you'll love. I've added new keyboa
 
 ![shortcuts](shortcuts.png)
 
-I've also made some improvements to the Welcome page layout and added a feature to prevent GC posts from notifications. I've also reduced the interval to 15s to make the app more responsive.
+I've also made some improvements to the Welcome page layout and added a feature to prevent [GC posts from notifications](https://boom.army/#/mentions). I've also reduced the interval to 15s to make the app more responsive.
 
 ## Performance Improvements
 
