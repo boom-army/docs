@@ -15,9 +15,9 @@ https://getdoks.org
 
 ## GPT Blog Post prompts 
 
-Get list of commits with `git log --since="Tue Oct 3 13:27:55 2023 +1300" --oneline`
+Get list of commits with `git log --since="Mon Oct 16 16:58:27 2023 +1300" --oneline`
 Get n commits: `git log -n 32`
-Show lines added and removed with `git log --since="Tue Oct 3 13:27:55 2023 +1300" --numstat | awk 'NF==3 {plus+=$1; minus+=$2; files++} END {printf("- **Files changed:** %s\n- **Lines added:** %s\n- **Lines removed:** %s\n", files, plus, minus)}'`
+Show lines added and removed with `git log --since="Mon Oct 16 16:58:27 2023 +1300" --numstat | awk 'NF==3 {plus+=$1; minus+=$2; files++} END {printf("- **Files changed:** %s\n- **Lines added:** %s\n- **Lines removed:** %s\n", files, plus, minus)}'`
 Working command for blog post generation:
 
 ```
@@ -33,6 +33,7 @@ Once ready output to markdown:
 
 `Turn this post into markdown and output in a code block:`
 
-For the midjourney blog post image:
+To update metadata:
 
-`/imagine Hunter S Thompson <whatever>, --c 70 --ar 16:9`
+`Increment this metadata to match the post in the exact same format, use the post to inform the description and lead summary which both should be identical. Update the timestamp to now.`
+
