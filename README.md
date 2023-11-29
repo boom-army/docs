@@ -15,9 +15,9 @@ https://getdoks.org
 
 ## GPT Blog Post prompts 
 
-Get list of commits with `git log --since="Mon Oct 16 16:58:27 2023 +1300" --oneline`
+Get list of commits with `git log --since="Thu Nov 16 11:41:58 2023 +1300" --oneline`
 Get n commits: `git log -n 32`
-Show lines added and removed with `git log --since="Mon Oct 16 16:58:27 2023 +1300" --numstat | awk 'NF==3 {plus+=$1; minus+=$2; files++} END {printf("- **Files changed:** %s\n- **Lines added:** %s\n- **Lines removed:** %s\n", files, plus, minus)}'`
+Show lines added and removed with `git log --since="Thu Nov 16 11:41:58 2023 +1300" --numstat | awk 'NF==3 {plus+=$1; minus+=$2; files++} END {printf("- **Files changed:** %s\n- **Lines added:** %s\n- **Lines removed:** %s\n", files, plus, minus)}'`
 Working command for blog post generation:
 
 ```
