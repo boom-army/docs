@@ -40,7 +40,7 @@ And for those who appreciate the subtleties, we've swapped out the old icon for 
 
 ## Testing and Fixes
 
-We've been testing a new instance of [Lingva Translate](https://lingva.ml/) for tansalting [boom.army](https://boom.army) posts. We're always looking for ways to improve and expand our features, and this is part of that ongoing effort.
+We've been testing a new instance of [Lingva Translate](https://lingva.ml/) for translating [boom.army](https://boom.army) posts. We're always looking for ways to improve and expand our features, and this is part of that ongoing effort.
 
 We've also addressed a couple of issues that were affecting user experience. We fixed an issue where missing posts were due to GC, and another where the menu was blocking everything for the Boost button.
 
